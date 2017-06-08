@@ -7,11 +7,11 @@ title = "Current WTA Clutch Ratings"
 +++
 
 
-<a href="http://localhost:1313/clutch_wta_week_table_serve/">Clutch Serve</a>
+<a href="/clutch_wta_week_table_serve/">Clutch Serve</a>
 
 
-<a href="http://localhost:1313/clutch_wta_week_table_return/">Clutch Return</a>
+<a href="/clutch_wta_week_table_return/">Clutch Return</a>
 
 
-<a href="http://localhost:1313/clutch_wta_week_table_overall/">Clutch Overall</a>
+<a href="/clutch_wta_week_table_overall/">Clutch Overall</a>
 
