@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Game Insight Group</title>
+    <link>/portfolio/</link>
+    <description>Recent content in Portfolios on Game Insight Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 Tennis Australia</copyright>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elo</title>
+      <link>/portfolio/elo/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/elo/</guid>
+      <description>&lt;p&gt;Elo power rankings of the men&amp;rsquo;s and women&amp;rsquo;s game.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Clutch</title>
+      <link>/portfolio/clutch/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/portfolio/clutch/</guid>
+      <description>&lt;p&gt;How players perform when it matters most.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Serve</title>
+      <link>/portfolio/serve/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>/portfolio/serve/</guid>
+      <description>&lt;p&gt;Opponent-adjusted serve performance.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Return</title>
+      <link>/portfolio/return/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>/portfolio/return/</guid>
+      <description>&lt;p&gt;Opponent-adjusted return performance.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tournament Predictions</title>
+      <link>/portfolio/tournament/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>/portfolio/tournament/</guid>
+      <description>&lt;p&gt;Projections for the outcomes of event draws.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>In-Match Predictions</title>
+      <link>/portfolio/in-match/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>/portfolio/in-match/</guid>
+      <description>&lt;p&gt;Point-by-point win predictions for tennis matches.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
