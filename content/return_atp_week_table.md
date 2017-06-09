@@ -6,7 +6,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Current ATP Return Ratings"
 +++
 
-The return ratings shown here are based on the current week's matches. Return performance is adjusted for opponent serving ability and will not be equal to the actual return percentage won. Players are ranked according to the average adjusted return performance. Updated: 2017-06-09
+The return ratings shown here are based on the current week's matches. Return performance is adjusted for opponent serving ability and will not be equal to the actual return percentage won. Players are ranked according to the average adjusted return performance. Updated: 2017-06-10
 
 <table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
 <thead>
@@ -21,38 +21,38 @@ The return ratings shown here are based on the current week's matches. Return pe
 <tr>
 <td style='width:40%; text-align: center;'>1</td>
 <td style='width:40%; text-align: left;'>Dominic Thiem</td>
-<td style='width:40%; text-align: center;'>269.4</td>
-<td style='width:40%; text-align: center;'>53.9</td>
+<td style='width:40%; text-align: center;'>303.7</td>
+<td style='width:40%; text-align: center;'>50.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Novak Djokovic</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>239.4</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>47.9</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>283.8</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>47.3</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>3</td>
-<td style='width:40%; text-align: left;'>Andy Murray</td>
-<td style='width:40%; text-align: center;'>239.1</td>
-<td style='width:40%; text-align: center;'>47.8</td>
+<td style='width:40%; text-align: left;'>Stan Wawrinka</td>
+<td style='width:40%; text-align: center;'>283.1</td>
+<td style='width:40%; text-align: center;'>47.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Kei Nishikori</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>234.3</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>46.9</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Rafael Nadal</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>269.3</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>53.9</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>5</td>
-<td style='width:40%; text-align: left;'>Stan Wawrinka</td>
-<td style='width:40%; text-align: center;'>231.9</td>
-<td style='width:40%; text-align: center;'>46.4</td>
+<td style='width:40%; text-align: left;'>Novak Djokovic</td>
+<td style='width:40%; text-align: center;'>239.4</td>
+<td style='width:40%; text-align: center;'>47.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Rafael Nadal</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>213.1</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>53.3</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Kei Nishikori</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>234.3</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>46.9</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>7</td>
