@@ -11,7 +11,7 @@ How players perform when it matters most
 
 <!--more-->
 
-This page contains clutch rankings for year-to-date clutch performance and _current_ clutch performance based on the past week.
+This page contains clutch rankings for the _current_ week's event.
 
 <div class="container-fluid">
 <div class="row">

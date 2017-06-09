@@ -11,7 +11,8 @@ Performance on serve adjusted for opponent return ability
 
 <!--more-->
 
-This page contains adjusted service stats that allow a player's serve performance to be directly compared from one match to the next. The rankings below are based on year-to-date adjusted serve performance and _current_ adjusted serve performance based on the past week of competition.
+This page contains adjusted serve stats. These are adjusted for the return ability of the opponent. In this way, these adjusted stats allow a player's serve performance to be directly compared from one match to the next. The rankings below are based on the cumulative adjusted serve perforamnce for the _current_ week's event. The _mean percentage_ is the average adjusted serve performance.
+
 
 <div class="container-fluid">
 <div class="row">
