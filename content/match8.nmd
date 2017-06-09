@@ -1,0 +1,17 @@
++++
+draft = false
+type = "page" 
+layout = "simple"
+date = "2016-11-05T18:25:22+05:30"
+title = "In-Match Prediction Report"
++++
+
+The following chart and table show the point-by-point match win prediction for the player who ultimately won the match.
+
+<div>
+<img src="/img/plots/match-image" width = "100%">
+</div>
+
+<br>
+
+<TABLE>
