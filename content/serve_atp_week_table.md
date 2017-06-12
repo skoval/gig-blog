@@ -20,27 +20,27 @@ The serve ratings shown here are based on the current week's matches. Serve perf
 <tbody>
 <tr>
 <td style='width:40%; text-align: center;'>1</td>
+<td style='width:40%; text-align: left;'>Stan Wawrinka</td>
+<td style='width:40%; text-align: center;'>490.6</td>
+<td style='width:40%; text-align: center;'>70.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Rafael Nadal</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>460.0</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>76.7</td>
+</tr>
+<tr>
+<td style='width:40%; text-align: center;'>3</td>
 <td style='width:40%; text-align: left;'>Dominic Thiem</td>
 <td style='width:40%; text-align: center;'>430.6</td>
 <td style='width:40%; text-align: center;'>71.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>430.2</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>71.7</td>
-</tr>
-<tr>
-<td style='width:40%; text-align: center;'>3</td>
-<td style='width:40%; text-align: left;'>Andy Murray</td>
-<td style='width:40%; text-align: center;'>410.9</td>
-<td style='width:40%; text-align: center;'>68.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Rafael Nadal</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>378.0</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>75.6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>410.9</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>68.5</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>5</td>

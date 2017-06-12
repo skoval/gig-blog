@@ -20,27 +20,27 @@ The return ratings shown here are based on the current week's matches. Return pe
 <tbody>
 <tr>
 <td style='width:40%; text-align: center;'>1</td>
+<td style='width:40%; text-align: left;'>Rafael Nadal</td>
+<td style='width:40%; text-align: center;'>329.0</td>
+<td style='width:40%; text-align: center;'>54.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>313.4</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>44.8</td>
+</tr>
+<tr>
+<td style='width:40%; text-align: center;'>3</td>
 <td style='width:40%; text-align: left;'>Dominic Thiem</td>
 <td style='width:40%; text-align: center;'>303.7</td>
 <td style='width:40%; text-align: center;'>50.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>283.8</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>47.3</td>
-</tr>
-<tr>
-<td style='width:40%; text-align: center;'>3</td>
-<td style='width:40%; text-align: left;'>Stan Wawrinka</td>
-<td style='width:40%; text-align: center;'>283.1</td>
-<td style='width:40%; text-align: center;'>47.2</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Rafael Nadal</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>269.3</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>53.9</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>5</td>
