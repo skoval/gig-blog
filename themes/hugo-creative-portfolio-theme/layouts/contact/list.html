@@ -7,7 +7,9 @@
          <h1>{{ .Title }}</h1>
          {{ .Content }}
          <h4>Or Send an Inquiry Below:</h4>
-         <form id="contact-form" class="contact-form form" method="post" action="https://formspree.io/{{ .Site.Params.email }}">
+         {{ with .Site.Params.email }}
+         <form id="contact-form" class="contact-form form" method="post" action="https://formspree.io/{{ . }}">
+             {{end}}
            <div class="controls">
              <div class="form-group">
                <label for="name">Your name *</label>
