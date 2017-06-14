@@ -9,7 +9,7 @@ title = "In-Match Prediction Report"
 The following chart and table show the point-by-point match win prediction for the player who ultimately won the match.
 
 <div>
-<img src="/img/plots/Jelena_Ostapenko_d_Simona_Halep_French_Open.png" width = "100%">
+<img src="/img/plots/Christina_Mchale_d_Anastasija_Sevastova_Nottingham.png" width = "100%">
 </div>
 
 <br>
@@ -31,1048 +31,712 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>34.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>41.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>44.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>51.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>58.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>42.9</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>41.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>49.1</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>39.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>28.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>34.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>31.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>35.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32.6</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>33.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40.8</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>38.9</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>41.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>39.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>48.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>27.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>26.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>26.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>34.3</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>26.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>34.2</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>33.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>32.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40.3</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>48.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>52.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>60.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>52.6</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>44.4</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>41.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>35.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>43.3</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>35.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>26.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32.2</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>36.6</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>36.6</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>29.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>31.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>38.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>31.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>39.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>24.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>49.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>58.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>34.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>45.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>32.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>26.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>57.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>59.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>57.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>36.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>51.6</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>58.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>65.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>45.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>27.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>36.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.2</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>31.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>24.1</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>27.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>27.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.2</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>27.2</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>21.7</td>
-</tr>
-<tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>12.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>22.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>17.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>66.3</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>19.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18.2</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>13.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11.3</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>70.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>74.6</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>70.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>70.4</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8.0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>70.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>25.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>23.3</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18.8</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>17.9</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>72.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>78.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>72.7</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>70.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>64.7</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>69.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>20.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>26.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>21.3</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>27.8</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>22.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-A</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>25.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-A</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>25.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>A-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>16.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>73.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>67.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>73.6</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>67.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>65.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>70.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>74.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-A</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>81.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>74.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-A</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>81.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>74.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>A-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>70.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>14.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>12.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13.2</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>16.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>71.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>68.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>71.4</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>68.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>66.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>14.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>22.3</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>28.7</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>54.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>51.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>49.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>44.6</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2.1</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2.1</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1.2</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1.2</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4.1</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3.4</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11.2</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7.9</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6.3</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7.9</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>14.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>14.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.6</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>23.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>16.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>28.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>26.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>28.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>25.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>19.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>49.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
@@ -1080,7 +744,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>16.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
@@ -1088,85 +752,213 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>20.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>38.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>29.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>38.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>37.4</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>39.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>37.4</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>A-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>32.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>31.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>46.8</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>35.2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>43.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>42.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>47.3</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>45.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>56.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>43.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>47.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>42.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>47.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-A</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>59.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.6</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>26.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30.7</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>35.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>54.9</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>51.7</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>48.9</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>51.4</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>59.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50.4</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>46.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>54.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>46.5</td>
 </tr>
@@ -1174,25 +966,41 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>54.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>60.0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>46.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>56.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>43.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>39.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>42.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
@@ -1200,7 +1008,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>47.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
@@ -1208,391 +1016,591 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>42.0</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>35.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>55.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>39.4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>59.8</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>46.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>55.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>51.9</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>47.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>45.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>54.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50.2</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>42.2</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>37.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>35.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>31.1</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>23.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>21.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>21.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18.2</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>22.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>24.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-A</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>24.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>43.6</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>37.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>32.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>58.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50.7</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>60.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>67.7</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>17.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>14.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>17.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>14.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>38.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.3</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>24.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>84.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.2</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.2</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>47.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>82.6</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>85.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>82.4</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>80.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>81.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>53.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>14.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7.3</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5.8</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>89.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>92.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>90.2</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>88.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>86.6</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>87.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>90.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>A-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>87.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4.9</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8.7</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>14.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-A</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>62.6</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>56.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>48.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>45.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>43.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>38.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>44.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>37.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>46.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>36.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>46.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-A</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>61.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>14.4</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15.2</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>24.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>36.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>48.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1-1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>60.0</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1-2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>54.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>47.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3-1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>63.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>34.7</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>57.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>70.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>78.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>70.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4-1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>79.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>23.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2-4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>85.4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>83.0</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>88.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2-5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>75.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>84.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>89.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6-2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>92.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8.7</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>89.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: left;'>Simona Halep</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>94.3</td>
+<td style='width:20%;padding:2%;margin:2%; border-bottom: 2px solid grey; text-align: left;'>Simona Halep</td>
+<td style='width:20%;padding:2%;margin:2%; border-bottom: 2px solid grey; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; border-bottom: 2px solid grey; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; border-bottom: 2px solid grey; text-align: center;'>7-2</td>
+<td style='width:20%;padding:2%;margin:2%; border-bottom: 2px solid grey; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; border-bottom: 2px solid grey; text-align: center;'>2.7</td>
 </tr>
 </tbody>
 </table>
