@@ -12,7 +12,7 @@ Point-by-point win predictions for tennis matches.
 <!--more-->
 
 
-The list below contains links to in-match win predictions for recently completed matches. Updated: <DATE>
+The list below contains links to in-match win predictions for recently completed matches. Updated: 2017-06-14
 
 <ul>
 <li><a href="/match1/">Rafael Nadal d Stan Wawrinka French Open</a></li>
@@ -23,6 +23,6 @@ The list below contains links to in-match win predictions for recently completed
 <li><a href="/match6/">Jelena Ostapenko d Simona Halep French Open</a></li>
 <li><a href="/match7/">Simona Halep d Karolina Pliskova French Open</a></li>
 <li><a href="/match8/">Jelena Ostapenko d Timea Bacsinszky French Open</a></li>
-<li><a href="/match9/">Simona Halep d Elina Svitolina French Open</a></li>
-<li><a href="/match10/">Karolina Pliskova d Caroline Garcia French Open</a></li>
+<li><a href="/match9/">Karolina Pliskova d Caroline Garcia French Open</a></li>
+<li><a href="/match10/">Simona Halep d Elina Svitolina French Open</a></li>
 </ul>

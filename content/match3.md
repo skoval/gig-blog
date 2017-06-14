@@ -32,7 +32,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>13.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>31.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -40,7 +40,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>17.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32.4</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -48,7 +48,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>39.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -56,7 +56,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>39.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -64,7 +64,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>23.2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>45.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -72,7 +72,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>29.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>47.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -80,7 +80,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>28.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>46.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -88,7 +88,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>22.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>45.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -96,7 +96,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>21.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>38.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -104,7 +104,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>17.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>37.7</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -112,7 +112,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>16.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -120,7 +120,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>17.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>31.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -128,7 +128,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>12.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>29.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -136,7 +136,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>17.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>31.4</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -144,7 +144,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>23.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -152,7 +152,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>17.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>31.4</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -160,7 +160,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>A-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>33.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -168,7 +168,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -176,7 +176,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>23.0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>33.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -184,7 +184,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>22.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32.7</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -192,7 +192,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>23.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>39.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -200,7 +200,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>22.4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -208,7 +208,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>27.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>38.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -216,7 +216,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>34.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>46.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -224,7 +224,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>A-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>27.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>38.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -232,7 +232,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>26.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>37.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -240,7 +240,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>27.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>39.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -248,7 +248,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>34.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>45.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -256,7 +256,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>34.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>46.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -264,79 +264,79 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>52.4</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>45.3</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>44.6</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>38.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>38.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>39.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40.4</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>33.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.1</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>27.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>27.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>21.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>22.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>28.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>29.5</td>
-</tr>
-<tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>28.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>39.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -344,7 +344,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>22.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>31.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -352,7 +352,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>A-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>23.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>34.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -360,7 +360,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>22.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>31.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -368,7 +368,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>A-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>23.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>34.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -376,7 +376,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>29.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -384,7 +384,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>28.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>39.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -392,7 +392,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>41.2</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -400,7 +400,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>38.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -408,7 +408,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>36.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>47.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -416,7 +416,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>28.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>39.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -424,7 +424,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>36.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>47.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -432,7 +432,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-A</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>46.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>58.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -440,7 +440,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>41.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>47.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -448,7 +448,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-A</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>46.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>58.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -456,7 +456,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>60.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>71.2</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -464,7 +464,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>52.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>63.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -472,7 +472,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>60.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>65.5</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -480,7 +480,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>51.2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>62.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -488,7 +488,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>53.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>65.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -496,7 +496,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>49.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>55.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -504,7 +504,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>36.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>47.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -512,7 +512,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>34.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>46.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -520,7 +520,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>28.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>39.3</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -528,7 +528,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>28.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>38.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -536,7 +536,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>27.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -544,7 +544,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>11</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>29.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>34.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -560,7 +560,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>11</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>29.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>34.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -568,7 +568,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>35.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -584,7 +584,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>31.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>36.4</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -592,7 +592,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>25.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>35.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -600,7 +600,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>24.4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>34.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -608,7 +608,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>25.2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>35.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -616,7 +616,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>24.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -624,7 +624,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>29.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -632,7 +632,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.5</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -640,7 +640,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>13</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1-1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>23.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -648,7 +648,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2-1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.5</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -656,7 +656,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>13</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2-2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>21.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -664,7 +664,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2-3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>28.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>38.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -672,7 +672,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>13</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4-2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>19.0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>27.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -680,7 +680,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4-3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.2</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -688,7 +688,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>13</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4-4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>20.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>29.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -696,7 +696,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4-5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>29.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -704,7 +704,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>13</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5-5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>17.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>25.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -712,7 +712,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5-6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>29.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>39.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -720,7 +720,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>13</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6-6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>45.0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -728,7 +728,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6-7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>28.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -744,7 +744,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>14.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -752,7 +752,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>13.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -768,7 +768,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -776,7 +776,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -784,7 +784,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -792,7 +792,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -800,7 +800,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -808,7 +808,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6.7</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -816,7 +816,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -824,7 +824,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8.4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -832,7 +832,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -840,7 +840,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -848,7 +848,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -856,7 +856,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -872,7 +872,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -880,7 +880,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -896,7 +896,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -904,7 +904,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8.4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13.7</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -912,7 +912,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>14.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -920,7 +920,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -928,7 +928,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -936,7 +936,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>16.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -944,7 +944,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15.0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -952,7 +952,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>17.4</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -960,7 +960,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>22.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -968,7 +968,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>17.2</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -976,7 +976,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>22.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -984,7 +984,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -992,7 +992,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>22.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -1000,7 +1000,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -1008,7 +1008,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>22.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -1016,7 +1016,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>21.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -1024,7 +1024,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>27.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -1032,7 +1032,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>17.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -1040,7 +1040,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>13.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>19.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1048,7 +1048,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>14.7</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -1056,7 +1056,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>12.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>19.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1064,7 +1064,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -1072,7 +1072,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>21.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -1080,7 +1080,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>26.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -1088,7 +1088,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>24.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>33.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -1096,7 +1096,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>27.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>36.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -1104,7 +1104,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>35.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>46.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1112,7 +1112,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>43.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>48.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -1136,7 +1136,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>44.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1152,7 +1152,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>45.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1176,7 +1176,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>46.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>52.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -1184,7 +1184,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>47.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>57.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -1192,7 +1192,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>46.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>52.2</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -1200,7 +1200,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>41.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>51.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -1208,7 +1208,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>46.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>52.3</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -1216,7 +1216,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>48.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>58.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1224,7 +1224,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>55.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>60.3</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -1248,7 +1248,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>63.0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>67.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -1256,7 +1256,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>63.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>67.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -1264,7 +1264,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>61.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>66.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -1272,7 +1272,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>63.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>72.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -1280,7 +1280,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>66.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>74.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -1288,7 +1288,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>63.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>72.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -1296,7 +1296,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>71.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>76.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1304,7 +1304,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>77.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>83.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -1312,7 +1312,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>75.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>79.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1320,7 +1320,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>76.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>83.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -1328,7 +1328,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>78.0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>84.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1336,7 +1336,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>82.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>85.2</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -1344,7 +1344,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>82.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>88.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -1352,7 +1352,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>82.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>85.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -1360,7 +1360,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>81.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>84.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -1368,7 +1368,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>78.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>84.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -1376,7 +1376,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>81.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>84.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1384,7 +1384,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>78.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>84.5</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -1392,7 +1392,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>76.2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>79.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1400,7 +1400,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>77.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>81.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -1408,7 +1408,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>71.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>78.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1416,7 +1416,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>77.4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>80.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -1424,7 +1424,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>79.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>82.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1432,7 +1432,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>73.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>80.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -1440,7 +1440,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-A</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>69.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>73.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -1448,7 +1448,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>63.4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>68.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -1480,7 +1480,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>75.4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>79.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -1488,7 +1488,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>72.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>76.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -1504,7 +1504,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-A</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>72.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>76.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -1520,7 +1520,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-A</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>72.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>76.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1536,7 +1536,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>76.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>80.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1544,7 +1544,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>78.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>82.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -1560,7 +1560,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>78.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>81.7</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -1600,7 +1600,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-A</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>70.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>74.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -1616,7 +1616,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>67.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>71.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -1640,7 +1640,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>55.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>60.3</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -1648,7 +1648,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>54.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>59.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1656,7 +1656,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>55.3</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -1664,7 +1664,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>54.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>58.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1672,7 +1672,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>44.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>53.7</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -1680,7 +1680,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>37.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>42.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1688,7 +1688,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>42.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>51.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -1696,7 +1696,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>53.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>58.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1704,7 +1704,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>58.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>62.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -1712,7 +1712,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>60.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>65.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -1728,7 +1728,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>61.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>65.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -1752,7 +1752,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>54.5</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -1760,7 +1760,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>11</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>46.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1768,7 +1768,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>36.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>45.3</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -1776,7 +1776,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>11</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>31.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>35.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1784,7 +1784,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>42.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -1792,7 +1792,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>27.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>31.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -1816,7 +1816,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>25.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>28.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -1824,7 +1824,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>22.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>26.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1848,7 +1848,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>24.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>27.5</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -1864,7 +1864,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>24.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>27.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -1872,7 +1872,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>24.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>28.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -1880,7 +1880,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>27.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>34.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -1888,7 +1888,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>33.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>37.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -1896,7 +1896,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>27.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>35.5</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -1904,7 +1904,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>25.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>32.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -1912,7 +1912,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>26.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -1920,7 +1920,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>21.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>25.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1936,7 +1936,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>21.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>24.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1952,7 +1952,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>21.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>24.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -1960,7 +1960,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>27.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -1976,7 +1976,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>27.2</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -2000,7 +2000,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>22.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>25.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -2008,7 +2008,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>21.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>25.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -2016,7 +2016,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>16.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>22.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -2024,7 +2024,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>24.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -2032,7 +2032,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>21.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -2040,7 +2040,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>24.2</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -2048,7 +2048,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>24.0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>27.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -2056,7 +2056,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>25.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>29.3</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -2104,7 +2104,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>16.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -2120,7 +2120,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>17.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -2144,7 +2144,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>21.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -2168,7 +2168,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>21.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>24.7</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -2176,7 +2176,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>20.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>23.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -2208,7 +2208,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>23.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>25.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -2296,7 +2296,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>27.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>29.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -2336,7 +2336,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>23.2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>25.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -2344,7 +2344,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>22.4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>25.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -2352,7 +2352,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>13</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>29.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>32.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -2368,7 +2368,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>13</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2-2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>33.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -2376,7 +2376,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3-2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>25.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -2384,7 +2384,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>13</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2-4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>27.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -2432,7 +2432,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>54.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>58.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -2448,7 +2448,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>56.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>59.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -2480,7 +2480,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>80.0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>82.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -2504,7 +2504,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>86.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>87.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -2520,7 +2520,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>87.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>88.7</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
@@ -2536,7 +2536,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>88.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>90.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -2552,7 +2552,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>93.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>94.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -2568,7 +2568,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>92.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>93.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -2576,7 +2576,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>94.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>95.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -2608,7 +2608,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>97.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>97.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andy Murray</td>
@@ -2632,7 +2632,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>98.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>99.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -2648,7 +2648,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>99.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>99.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -2664,7 +2664,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>99.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>99.7</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -2680,7 +2680,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>99.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>99.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>

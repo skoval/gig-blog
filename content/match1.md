@@ -40,7 +40,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>69.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>74.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Rafael Nadal</td>
@@ -264,7 +264,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>80.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>84.4</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -600,7 +600,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>99.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>99.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
@@ -760,7 +760,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>99.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>99.7</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Rafael Nadal</td>
@@ -832,7 +832,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>99.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>99.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Rafael Nadal</td>
