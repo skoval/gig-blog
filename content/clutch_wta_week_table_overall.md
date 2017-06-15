@@ -7,7 +7,7 @@ title = "Current Overall WTA Clutch Ratings"
 +++
 
 
-Overall clutch ratings are based on the sum of the average serve and return clutch performance in matches for the current week. Updated: 2017-06-15
+Overall clutch ratings are based on the sum of the average serve and return clutch performance in matches for the current week. Updated: 2017-06-16
 
 
 <table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >

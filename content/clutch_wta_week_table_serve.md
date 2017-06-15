@@ -7,7 +7,7 @@ title = "Current Serve WTA Clutch Ratings"
 +++
 
 
-Serve clutch ratings are based on the average clutch serve performance in matches for the current week. Updated: 2017-06-15
+Serve clutch ratings are based on the average clutch serve performance in matches for the current week. Updated: 2017-06-16
 
 
 <table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
