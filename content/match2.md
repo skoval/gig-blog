@@ -32,7 +32,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>43.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>44.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -40,7 +40,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>42.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>43.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -48,7 +48,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>35.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>37.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -56,7 +56,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>42.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>43.5</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -64,7 +64,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -72,7 +72,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>42.4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>43.2</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -80,7 +80,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>41.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>41.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -88,7 +88,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>48.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>48.3</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -96,7 +96,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>41.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>41.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -104,7 +104,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -112,7 +112,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>41.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -120,7 +120,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32.5</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -128,7 +128,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>34.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>36.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -136,7 +136,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>42.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>43.5</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -144,7 +144,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>34.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>36.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -152,7 +152,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>42.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>43.5</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -160,7 +160,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>43.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>45.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -168,7 +168,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>51.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>52.4</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -176,7 +176,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>60.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>60.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -184,7 +184,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>63.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>64.2</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -192,7 +192,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>61.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>62.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -200,7 +200,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>53.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>55.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -208,7 +208,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -224,7 +224,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -232,7 +232,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>48.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>48.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -240,7 +240,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>41.2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>41.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -248,7 +248,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>34.5</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -256,7 +256,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>25.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>27.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -264,7 +264,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.5</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -272,7 +272,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>34.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>36.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -280,7 +280,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>31.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -288,7 +288,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>22.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>22.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -296,7 +296,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>21.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>21.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -304,7 +304,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>27.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>26.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -312,7 +312,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>21.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>21.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -320,7 +320,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>27.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>26.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -328,7 +328,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>26.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>24.5</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -336,7 +336,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>27.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>26.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -344,7 +344,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>36.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>34.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -352,7 +352,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>33.2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -360,7 +360,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>26.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>24.5</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -368,7 +368,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>25.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>23.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -376,7 +376,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -384,7 +384,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>25.0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>23.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -392,7 +392,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -400,7 +400,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>20.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>19.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -408,7 +408,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>25.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -416,7 +416,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>26.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>24.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -424,7 +424,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -432,7 +432,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>19.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -440,7 +440,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>25.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -448,7 +448,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>26.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>25.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -456,7 +456,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>24.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>22.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -464,7 +464,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>19.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -472,7 +472,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>24.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>21.5</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -480,7 +480,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>19.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -488,7 +488,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18.4</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -496,7 +496,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>19.2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>17.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -504,7 +504,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18.5</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -512,7 +512,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>19.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -520,7 +520,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>26.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>24.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -528,7 +528,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>24.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>22.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -536,7 +536,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>17.5</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -544,7 +544,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>16.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -552,7 +552,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>14.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13.2</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -560,7 +560,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>16.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -568,7 +568,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>17.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -576,7 +576,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>16.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -584,7 +584,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>17.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -592,7 +592,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>23.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>21.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -600,7 +600,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.2</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -608,7 +608,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>28.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>24.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -616,7 +616,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.2</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -624,7 +624,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>22.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>19.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -632,7 +632,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>27.4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -640,7 +640,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>22.0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -648,7 +648,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>22.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -656,7 +656,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>28.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>24.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -664,7 +664,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>28.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>24.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -672,7 +672,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>23.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>21.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -680,7 +680,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.4</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -688,7 +688,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>24.2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>21.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -696,7 +696,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.5</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -704,7 +704,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>16.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -712,7 +712,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -720,7 +720,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>29.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>25.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -728,7 +728,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -736,7 +736,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>29.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>25.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -744,7 +744,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>27.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.3</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -752,7 +752,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>29.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>25.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -760,7 +760,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>37.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.7</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -768,7 +768,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>43.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -776,7 +776,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>44.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>42.3</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -784,7 +784,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>42.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -792,7 +792,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>44.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>42.3</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -800,7 +800,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>47.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -808,7 +808,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>51.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>48.2</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -816,7 +816,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>57.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>52.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -824,7 +824,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>56.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>52.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -832,7 +832,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>47.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -840,7 +840,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>56.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>52.2</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -848,7 +848,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>55.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>51.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -856,7 +856,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>46.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -864,7 +864,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>51.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>48.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -872,7 +872,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>49.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>46.4</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -880,7 +880,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>41.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>39.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -888,7 +888,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -896,7 +896,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>37.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -904,7 +904,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>44.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>42.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -912,7 +912,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>A-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>51.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>48.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -920,7 +920,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>52.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50.4</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -928,7 +928,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>58.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>54.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -936,7 +936,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>52.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50.5</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -944,7 +944,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>52.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -952,7 +952,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>58.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>54.3</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -960,7 +960,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>59.0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>55.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -968,7 +968,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>65.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>60.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -976,7 +976,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>66.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>62.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -984,7 +984,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>71.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>67.4</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -992,7 +992,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>66.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>62.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -1000,7 +1000,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>67.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>65.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -1008,7 +1008,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>72.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>68.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -1016,7 +1016,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>74.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>72.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -1024,7 +1024,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>72.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>69.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -1032,7 +1032,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>71.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>66.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -1040,7 +1040,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>72.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>69.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -1048,7 +1048,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>70.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>65.3</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -1056,7 +1056,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>72.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>69.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -1064,7 +1064,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>79.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>79.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -1072,7 +1072,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>72.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>69.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -1080,7 +1080,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>79.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>79.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -1088,7 +1088,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>83.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>88.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -1096,7 +1096,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>79.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>83.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -1104,7 +1104,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>80.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>85.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -1112,7 +1112,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>84.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>89.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -1120,7 +1120,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>85.2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>91.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -1128,7 +1128,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>85.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>92.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -1136,7 +1136,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>85.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>91.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -1144,7 +1144,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>85.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>92.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -1152,7 +1152,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>85.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>90.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -1160,7 +1160,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>84.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>89.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -1168,7 +1168,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>84.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>90.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -1176,7 +1176,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>88.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>93.3</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -1184,7 +1184,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>A-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>84.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>90.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -1192,7 +1192,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>84.4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>89.4</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -1200,7 +1200,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>82.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>86.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -1208,7 +1208,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>84.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>88.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -1216,7 +1216,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>85.2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>91.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -1224,7 +1224,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>83.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>88.2</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -1232,7 +1232,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>85.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>91.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -1240,7 +1240,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>88.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>94.5</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -1248,7 +1248,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>88.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>93.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -1256,7 +1256,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>88.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>94.7</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -1264,7 +1264,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>88.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>93.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -1272,7 +1272,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>88.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>94.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -1280,7 +1280,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>91.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>97.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -1288,7 +1288,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>88.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>94.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -1296,7 +1296,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-A</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>91.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>97.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -1304,7 +1304,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>90.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>95.4</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -1312,7 +1312,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>A-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>88.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>93.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -1320,7 +1320,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>87.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>92.6</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -1328,7 +1328,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>83.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>87.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -1336,7 +1336,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>85.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>90.8</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Julien Benneteau</td>
@@ -1344,7 +1344,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>88.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>94.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
@@ -1352,7 +1352,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>89.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>96.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -1360,7 +1360,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>89.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>96.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -1368,7 +1368,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>89.4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>96.2</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -1376,7 +1376,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>89.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>96.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
@@ -1384,7 +1384,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>91.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>98.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicolas Mahut</td>
@@ -1392,7 +1392,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>92.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>99.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: left;'>Nicolas Mahut</td>
@@ -1400,7 +1400,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>30-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>92.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>98.4</td>
 </tr>
 </tbody>
 </table>
