@@ -16,10 +16,10 @@ The list below contains links to in-match win predictions for recently completed
 
 <ul>
 <li><a href="/match1/">Tommy Haas d Roger Federer Stuttgart</a></li>
-<li><a href="/match2/">Julien Benneteau d Nicolas Mahut Hertogenbosch</a></li>
-<li><a href="/match3/">Lucas Pouille d Jan Lennard Struff Stuttgart</a></li>
+<li><a href="/match2/">Lucas Pouille d Jan Lennard Struff Stuttgart</a></li>
+<li><a href="/match3/">Julien Benneteau d Nicolas Mahut Hertogenbosch</a></li>
 <li><a href="/match4/">Gilles Muller d Andreas Seppi Hertogenbosch</a></li>
-<li><a href="/match5/">Aljaz Bedene d Ernesto Escobedo Hertogenbosch</a></li>
+<li><a href="/match5/">Jeremy Chardy d Florian Mayer Stuttgart</a></li>
 <li><a href="/match6/">Anett Kontaveit d Kirsten Flipkens Hertogenbosch</a></li>
 <li><a href="/match7/">Christina Mchale d Anastasija Sevastova Nottingham</a></li>
 <li><a href="/match8/">Ashleigh Barty d Jana Fett Nottingham</a></li>
