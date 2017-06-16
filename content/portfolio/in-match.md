@@ -15,14 +15,14 @@ Point-by-point win predictions for tennis matches.
 The list below contains links to in-match win predictions for recently completed matches. Updated: 2017-06-16
 
 <ul>
-<li><a href="/match1/">Tommy Haas d Roger Federer Stuttgart</a></li>
-<li><a href="/match2/">Lucas Pouille d Jan Lennard Struff Stuttgart</a></li>
-<li><a href="/match3/">Julien Benneteau d Nicolas Mahut Hertogenbosch</a></li>
-<li><a href="/match4/">Gilles Muller d Andreas Seppi Hertogenbosch</a></li>
-<li><a href="/match5/">Jeremy Chardy d Florian Mayer Stuttgart</a></li>
-<li><a href="/match6/">Anett Kontaveit d Kirsten Flipkens Hertogenbosch</a></li>
-<li><a href="/match7/">Christina Mchale d Anastasija Sevastova Nottingham</a></li>
-<li><a href="/match8/">Ashleigh Barty d Jana Fett Nottingham</a></li>
-<li><a href="/match9/">Ana Konjuh d Tamara Korpatsch Hertogenbosch</a></li>
-<li><a href="/match10/">Lesia Tsurenko d Petra Krejsova Hertogenbosch</a></li>
+<li><a href="/match1/">Benoit Paire d Peter Gojowczyk Stuttgart</a></li>
+<li><a href="/match2/">Tommy Haas d Roger Federer Stuttgart</a></li>
+<li><a href="/match3/">Daniil Medvedev d Thanasi Kokkinakis Hertogenbosch</a></li>
+<li><a href="/match4/">Tomas Berdych d Bernard Tomic Stuttgart</a></li>
+<li><a href="/match5/">Marin Cilic d Janko Tipsarevic Hertogenbosch</a></li>
+<li><a href="/match6/">Kristina Mladenovic d Aliaksandra Sasnovich Hertogenbosch</a></li>
+<li><a href="/match7/">Lucie Safarova d Su Wei Hsieh Nottingham</a></li>
+<li><a href="/match8/">Evgeniya Rodina d Antonia Lottner Hertogenbosch</a></li>
+<li><a href="/match9/">Johanna Konta d Yanina Wickmayer Nottingham</a></li>
+<li><a href="/match10/">Arantxa Rus d Andrea Hlavackova Hertogenbosch</a></li>
 </ul>
