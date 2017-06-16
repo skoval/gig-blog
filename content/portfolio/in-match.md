@@ -12,7 +12,7 @@ Point-by-point win predictions for tennis matches.
 <!--more-->
 
 
-The list below contains links to in-match win predictions for recently completed matches. Updated: 2017-06-16
+The list below contains links to in-match win predictions for recently completed matches. Updated: 2017-06-17
 
 <ul>
 <li><a href="/match1/">Benoit Paire d Peter Gojowczyk Stuttgart</a></li>

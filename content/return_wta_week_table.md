@@ -6,7 +6,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Current WTA Return Ratings"
 +++
 
-The return ratings shown here are based on the current week's matches. Return performance is adjusted for opponent serving ability and will not be equal to the actual return percentage won. Players are ranked according to the average adjusted return performance. Updated: 2017-06-16
+The return ratings shown here are based on the current week's matches. Return performance is adjusted for opponent serving ability and will not be equal to the actual return percentage won. Players are ranked according to the average adjusted return performance. Updated: 2017-06-17
 
 <table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
 <thead>
