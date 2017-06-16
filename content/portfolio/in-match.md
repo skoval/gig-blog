@@ -22,7 +22,7 @@ The list below contains links to in-match win predictions for recently completed
 <li><a href="/match5/">Marin Cilic d Janko Tipsarevic Hertogenbosch</a></li>
 <li><a href="/match6/">Kristina Mladenovic d Aliaksandra Sasnovich Hertogenbosch</a></li>
 <li><a href="/match7/">Lucie Safarova d Su Wei Hsieh Nottingham</a></li>
-<li><a href="/match8/">Evgeniya Rodina d Antonia Lottner Hertogenbosch</a></li>
-<li><a href="/match9/">Johanna Konta d Yanina Wickmayer Nottingham</a></li>
-<li><a href="/match10/">Arantxa Rus d Andrea Hlavackova Hertogenbosch</a></li>
+<li><a href="/match8/">Johanna Konta d Yanina Wickmayer Nottingham</a></li>
+<li><a href="/match9/">Arantxa Rus d Andrea Hlavackova Hertogenbosch</a></li>
+<li><a href="/match10/">Evgeniya Rodina d Antonia Lottner Hertogenbosch</a></li>
 </ul>
