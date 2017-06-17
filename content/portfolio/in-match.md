@@ -17,9 +17,9 @@ The list below contains links to in-match win predictions for recently completed
 <ul>
 <li><a href="/match1/">Marin Cilic d Vasek Pospisil Hertogenbosch</a></li>
 <li><a href="/match2/">Benoit Paire d Jerzy Janowicz Stuttgart</a></li>
-<li><a href="/match3/">Ivo Karlovic d Daniil Medvedev Hertogenbosch</a></li>
-<li><a href="/match4/">Alexander Zverev d Julien Benneteau Hertogenbosch</a></li>
-<li><a href="/match5/">Benoit Paire d Peter Gojowczyk Stuttgart</a></li>
+<li><a href="/match3/">Mischa Zverev d Tommy Haas Stuttgart</a></li>
+<li><a href="/match4/">Feliciano Lopez d Tomas Berdych Stuttgart</a></li>
+<li><a href="/match5/">Gilles Muller d Aljaz Bedene Hertogenbosch</a></li>
 <li><a href="/match6/">Lucie Safarova d Tsvetana Pironkova Nottingham</a></li>
 <li><a href="/match7/">Anett Kontaveit d Carina Witthoeft Hertogenbosch</a></li>
 <li><a href="/match8/">Kristina Mladenovic d Aliaksandra Sasnovich Hertogenbosch</a></li>
