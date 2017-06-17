@@ -6,7 +6,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Current WTA Serve Ratings"
 +++
 
-The serve ratings shown here are based on the current week's matches. Serve performance is adjusted for opponent return ability and will not be equal to the actual serve percentage won. Players are ranked according to the average adjusted serve performance. Updated: 2017-06-17
+The serve ratings shown here are based on the current week's matches. Serve performance is adjusted for opponent return ability and will not be equal to the actual serve percentage won. Players are ranked according to the average adjusted serve performance. Updated: 2017-06-18
 
 <table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
 <thead>

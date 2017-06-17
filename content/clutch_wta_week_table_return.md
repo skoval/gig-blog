@@ -7,7 +7,7 @@ title = "Current Return WTA Clutch Ratings"
 +++
 
 
-Return clutch ratings are based on the average clutch return performance in matches for the current week. Updated: 2017-06-17
+Return clutch ratings are based on the average clutch return performance in matches for the current week. Updated: 2017-06-18
 
 
 <table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >

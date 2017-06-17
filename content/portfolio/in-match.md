@@ -12,7 +12,7 @@ Point-by-point win predictions for tennis matches.
 <!--more-->
 
 
-The list below contains links to in-match win predictions for recently completed matches. Updated: 2017-06-17
+The list below contains links to in-match win predictions for recently completed matches. Updated: 2017-06-18
 
 <ul>
 <li><a href="/match1/">Marin Cilic d Vasek Pospisil Hertogenbosch</a></li>
