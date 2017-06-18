@@ -6,7 +6,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "WTA Career Elo Ratings"
 +++
 
-The following table includes the current career and surface-specific Elo ratings for WTA players. Updated: 2017-06-18
+The following table includes the current career and surface-specific Elo ratings for WTA players. Updated: 2017-06-19
 
 <table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
 <thead>

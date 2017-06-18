@@ -6,7 +6,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Current ATP Serve Ratings"
 +++
 
-The serve ratings shown here are based on the current week's matches. Serve performance is adjusted for opponent return ability and will not be equal to the actual serve percentage won. Players are ranked according to the average adjusted serve performance. Updated: 2017-06-18
+The serve ratings shown here are based on the current week's matches. Serve performance is adjusted for opponent return ability and will not be equal to the actual serve percentage won. Players are ranked according to the average adjusted serve performance. Updated: 2017-06-19
 
 <table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
 <thead>
@@ -20,57 +20,57 @@ The serve ratings shown here are based on the current week's matches. Serve perf
 <tbody>
 <tr>
 <td style='width:40%; text-align: center;'>1</td>
-<td style='width:40%; text-align: left;'>Mischa Zverev</td>
-<td style='width:40%; text-align: center;'>297.1</td>
-<td style='width:40%; text-align: center;'>74.3</td>
+<td style='width:40%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:40%; text-align: center;'>361.4</td>
+<td style='width:40%; text-align: center;'>72.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Benoit Paire</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>296.9</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>74.2</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Ivo Karlovic</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>311.2</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>77.8</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>3</td>
-<td style='width:40%; text-align: left;'>Feliciano Lopez</td>
-<td style='width:40%; text-align: center;'>285.8</td>
-<td style='width:40%; text-align: center;'>71.5</td>
+<td style='width:40%; text-align: left;'>Gilles Muller</td>
+<td style='width:40%; text-align: center;'>308.1</td>
+<td style='width:40%; text-align: center;'>77.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Ivo Karlovic</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>238.2</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>79.4</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>297.1</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>74.3</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>5</td>
+<td style='width:40%; text-align: left;'>Benoit Paire</td>
+<td style='width:40%; text-align: center;'>296.9</td>
+<td style='width:40%; text-align: center;'>74.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Lucas Pouille</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>280.9</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>70.2</td>
+</tr>
+<tr>
+<td style='width:40%; text-align: center;'>7</td>
 <td style='width:40%; text-align: left;'>Aljaz Bedene</td>
 <td style='width:40%; text-align: center;'>227.0</td>
 <td style='width:40%; text-align: center;'>75.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>222.9</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>74.3</td>
-</tr>
-<tr>
-<td style='width:40%; text-align: center;'>7</td>
-<td style='width:40%; text-align: left;'>Marin Cilic</td>
-<td style='width:40%; text-align: center;'>220.5</td>
-<td style='width:40%; text-align: center;'>73.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Philipp Kohlschreiber</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>216.2</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>72.1</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Marin Cilic</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>220.5</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>73.5</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>9</td>
-<td style='width:40%; text-align: left;'>Lucas Pouille</td>
-<td style='width:40%; text-align: center;'>209.1</td>
-<td style='width:40%; text-align: center;'>69.7</td>
+<td style='width:40%; text-align: left;'>Philipp Kohlschreiber</td>
+<td style='width:40%; text-align: center;'>216.2</td>
+<td style='width:40%; text-align: center;'>72.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>10</td>

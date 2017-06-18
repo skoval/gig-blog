@@ -7,7 +7,7 @@ title = "Current Return ATP Clutch Ratings"
 +++
 
 
-Return clutch ratings are based on the average clutch return performance in matches for the current week. Updated: 2017-06-18
+Return clutch ratings are based on the average clutch return performance in matches for the current week. Updated: 2017-06-19
 
 
 <table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
@@ -24,58 +24,58 @@ Return clutch ratings are based on the average clutch return performance in matc
 <tr>
 <td style='width:40%; text-align: center;'>1</td>
 <td style='width:40%; text-align: left;'>Feliciano Lopez</td>
-<td style='width:40%; text-align: center;'>146.0</td>
-<td style='width:40%; text-align: center;'>36.5</td>
-<td style='width:40%; text-align: center;'>2.4</td>
+<td style='width:40%; text-align: center;'>170.7</td>
+<td style='width:40%; text-align: center;'>34.1</td>
+<td style='width:40%; text-align: center;'>1.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Alexander Zverev</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>131.0</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>43.7</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>1.8</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>134.0</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>33.5</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-0.1</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>3</td>
+<td style='width:40%; text-align: left;'>Alexander Zverev</td>
+<td style='width:40%; text-align: center;'>131.0</td>
+<td style='width:40%; text-align: center;'>43.7</td>
+<td style='width:40%; text-align: center;'>1.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Ivo Karlovic</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>127.3</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>31.8</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>3.0</td>
+</tr>
+<tr>
+<td style='width:40%; text-align: center;'>5</td>
 <td style='width:40%; text-align: left;'>Aljaz Bedene</td>
 <td style='width:40%; text-align: center;'>116.5</td>
 <td style='width:40%; text-align: center;'>38.8</td>
 <td style='width:40%; text-align: center;'>0.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Ivo Karlovic</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>116.3</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>38.8</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>3.9</td>
-</tr>
-<tr>
-<td style='width:40%; text-align: center;'>5</td>
-<td style='width:40%; text-align: left;'>Vasek Pospisil</td>
-<td style='width:40%; text-align: center;'>112.2</td>
-<td style='width:40%; text-align: center;'>37.4</td>
-<td style='width:40%; text-align: center;'>-1.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Marin Cilic</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>109.8</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>36.6</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>1.5</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Vasek Pospisil</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>112.2</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>37.4</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-1.1</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>7</td>
-<td style='width:40%; text-align: left;'>Benoit Paire</td>
-<td style='width:40%; text-align: center;'>108.6</td>
-<td style='width:40%; text-align: center;'>36.2</td>
-<td style='width:40%; text-align: center;'>2.7</td>
+<td style='width:40%; text-align: left;'>Marin Cilic</td>
+<td style='width:40%; text-align: center;'>109.8</td>
+<td style='width:40%; text-align: center;'>36.6</td>
+<td style='width:40%; text-align: center;'>1.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>105.8</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>35.3</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-1.0</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Benoit Paire</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>108.6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>36.2</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>2.7</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>9</td>
@@ -107,80 +107,80 @@ Return clutch ratings are based on the average clutch return performance in matc
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>13</td>
-<td style='width:40%; text-align: left;'>Tommy Haas</td>
-<td style='width:40%; text-align: center;'>87.9</td>
-<td style='width:40%; text-align: center;'>29.3</td>
-<td style='width:40%; text-align: center;'>0.9</td>
+<td style='width:40%; text-align: left;'>Lucas Pouille</td>
+<td style='width:40%; text-align: center;'>88.8</td>
+<td style='width:40%; text-align: center;'>29.6</td>
+<td style='width:40%; text-align: center;'>2.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>14</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Thanasi Kokkinakis</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>84.6</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>42.3</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>8.2</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Tommy Haas</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>87.9</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>29.3</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>0.9</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>15</td>
-<td style='width:40%; text-align: left;'>Yannick Hanfmann</td>
-<td style='width:40%; text-align: center;'>82.4</td>
-<td style='width:40%; text-align: center;'>41.2</td>
-<td style='width:40%; text-align: center;'>3.1</td>
+<td style='width:40%; text-align: left;'>Thanasi Kokkinakis</td>
+<td style='width:40%; text-align: center;'>84.6</td>
+<td style='width:40%; text-align: center;'>42.3</td>
+<td style='width:40%; text-align: center;'>8.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>16</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Bernard Tomic</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>77.9</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>38.9</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>3.3</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Yannick Hanfmann</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>82.4</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>41.2</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>3.1</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>17</td>
-<td style='width:40%; text-align: left;'>Tomas Berdych</td>
-<td style='width:40%; text-align: center;'>75.6</td>
-<td style='width:40%; text-align: center;'>37.8</td>
-<td style='width:40%; text-align: center;'>1.2</td>
+<td style='width:40%; text-align: left;'>Bernard Tomic</td>
+<td style='width:40%; text-align: center;'>77.9</td>
+<td style='width:40%; text-align: center;'>38.9</td>
+<td style='width:40%; text-align: center;'>3.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>18</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Steve Johnson</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>71.9</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>35.9</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>5.1</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Tomas Berdych</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>75.6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>37.8</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>1.2</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>19</td>
-<td style='width:40%; text-align: left;'>Alexandr Dolgopolov</td>
-<td style='width:40%; text-align: center;'>71.5</td>
-<td style='width:40%; text-align: center;'>35.7</td>
-<td style='width:40%; text-align: center;'>-0.1</td>
+<td style='width:40%; text-align: left;'>Steve Johnson</td>
+<td style='width:40%; text-align: center;'>71.9</td>
+<td style='width:40%; text-align: center;'>35.9</td>
+<td style='width:40%; text-align: center;'>5.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>20</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Janko Tipsarevic</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>70.4</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>35.2</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>4.2</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Alexandr Dolgopolov</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>71.5</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>35.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-0.1</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>21</td>
-<td style='width:40%; text-align: left;'>Nicolas Mahut</td>
+<td style='width:40%; text-align: left;'>Janko Tipsarevic</td>
 <td style='width:40%; text-align: center;'>70.4</td>
 <td style='width:40%; text-align: center;'>35.2</td>
-<td style='width:40%; text-align: center;'>-0.6</td>
+<td style='width:40%; text-align: center;'>4.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>22</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Jan Lennard Struff</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>69.2</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>34.6</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>0.2</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Nicolas Mahut</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>70.4</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>35.2</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-0.6</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>23</td>
-<td style='width:40%; text-align: left;'>Lucas Pouille</td>
-<td style='width:40%; text-align: center;'>62.9</td>
-<td style='width:40%; text-align: center;'>31.5</td>
-<td style='width:40%; text-align: center;'>3.4</td>
+<td style='width:40%; text-align: left;'>Jan Lennard Struff</td>
+<td style='width:40%; text-align: center;'>69.2</td>
+<td style='width:40%; text-align: center;'>34.6</td>
+<td style='width:40%; text-align: center;'>0.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>24</td>

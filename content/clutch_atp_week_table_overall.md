@@ -7,7 +7,7 @@ title = "Current Overall ATP Clutch Ratings"
 +++
 
 
-Overall clutch ratings are based on the sum of the average serve and return clutch performance in matches for the current week. Updated: 2017-06-18
+Overall clutch ratings are based on the sum of the average serve and return clutch performance in matches for the current week. Updated: 2017-06-19
 
 
 <table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
@@ -24,30 +24,30 @@ Overall clutch ratings are based on the sum of the average serve and return clut
 <tr>
 <td style='width:40%; text-align: center;'>1</td>
 <td style='width:40%; text-align: left;'>Feliciano Lopez</td>
-<td style='width:40%; text-align: center;'>429.5</td>
-<td style='width:40%; text-align: center;'>107.4</td>
-<td style='width:40%; text-align: center;'>3.9</td>
+<td style='width:40%; text-align: center;'>528.3</td>
+<td style='width:40%; text-align: center;'>105.7</td>
+<td style='width:40%; text-align: center;'>2.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Ivo Karlovic</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>356.1</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>118.7</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>6.2</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>450.9</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>112.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>2.5</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>3</td>
-<td style='width:40%; text-align: left;'>Alexander Zverev</td>
-<td style='width:40%; text-align: center;'>342.4</td>
-<td style='width:40%; text-align: center;'>114.1</td>
-<td style='width:40%; text-align: center;'>3.6</td>
+<td style='width:40%; text-align: left;'>Ivo Karlovic</td>
+<td style='width:40%; text-align: center;'>439.0</td>
+<td style='width:40%; text-align: center;'>109.8</td>
+<td style='width:40%; text-align: center;'>4.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>333.7</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>111.2</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>2.6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Alexander Zverev</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>342.4</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>114.1</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>3.6</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>5</td>
@@ -79,59 +79,59 @@ Overall clutch ratings are based on the sum of the average serve and return clut
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>9</td>
-<td style='width:40%; text-align: left;'>Vasek Pospisil</td>
-<td style='width:40%; text-align: center;'>304.9</td>
-<td style='width:40%; text-align: center;'>101.6</td>
-<td style='width:40%; text-align: center;'>-4.1</td>
+<td style='width:40%; text-align: left;'>Lucas Pouille</td>
+<td style='width:40%; text-align: center;'>315.1</td>
+<td style='width:40%; text-align: center;'>105.0</td>
+<td style='width:40%; text-align: center;'>6.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>10</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Jerzy Janowicz</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>301.6</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>100.5</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>7.6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Vasek Pospisil</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>304.9</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>101.6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-4.1</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>11</td>
-<td style='width:40%; text-align: left;'>Daniil Medvedev</td>
-<td style='width:40%; text-align: center;'>296.2</td>
-<td style='width:40%; text-align: center;'>98.7</td>
-<td style='width:40%; text-align: center;'>2.3</td>
+<td style='width:40%; text-align: left;'>Jerzy Janowicz</td>
+<td style='width:40%; text-align: center;'>301.6</td>
+<td style='width:40%; text-align: center;'>100.5</td>
+<td style='width:40%; text-align: center;'>7.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>12</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Tommy Haas</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>291.0</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>97.0</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>3.5</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Daniil Medvedev</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>296.2</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>98.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>2.3</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>13</td>
-<td style='width:40%; text-align: left;'>Julien Benneteau</td>
-<td style='width:40%; text-align: center;'>282.8</td>
-<td style='width:40%; text-align: center;'>94.3</td>
-<td style='width:40%; text-align: center;'>0.2</td>
+<td style='width:40%; text-align: left;'>Tommy Haas</td>
+<td style='width:40%; text-align: center;'>291.0</td>
+<td style='width:40%; text-align: center;'>97.0</td>
+<td style='width:40%; text-align: center;'>3.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>14</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Steve Johnson</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>219.2</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>109.6</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>3.1</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Julien Benneteau</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>282.8</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>94.3</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>0.2</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>15</td>
-<td style='width:40%; text-align: left;'>Tomas Berdych</td>
-<td style='width:40%; text-align: center;'>215.2</td>
-<td style='width:40%; text-align: center;'>107.6</td>
-<td style='width:40%; text-align: center;'>-3.1</td>
+<td style='width:40%; text-align: left;'>Steve Johnson</td>
+<td style='width:40%; text-align: center;'>219.2</td>
+<td style='width:40%; text-align: center;'>109.6</td>
+<td style='width:40%; text-align: center;'>3.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>16</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Lucas Pouille</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>213.9</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>106.9</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>7.6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Tomas Berdych</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>215.2</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>107.6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-3.1</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>17</td>
