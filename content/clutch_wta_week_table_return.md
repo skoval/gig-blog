@@ -24,191 +24,191 @@ Return clutch ratings are based on the average clutch return performance in matc
 <tr>
 <td style='width:40%; text-align: center;'>1</td>
 <td style='width:40%; text-align: left;'>Lucie Safarova</td>
-<td style='width:40%; text-align: center;'>144.4</td>
-<td style='width:40%; text-align: center;'>48.1</td>
-<td style='width:40%; text-align: center;'>2.8</td>
+<td style='width:40%; text-align: center;'>176.7</td>
+<td style='width:40%; text-align: center;'>44.2</td>
+<td style='width:40%; text-align: center;'>1.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: left;'>Ana Konjuh</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>136.2</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>45.4</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>1.1</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>167.4</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>41.8</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-0.4</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>3</td>
+<td style='width:40%; text-align: left;'>Donna Vekic</td>
+<td style='width:40%; text-align: center;'>146.8</td>
+<td style='width:40%; text-align: center;'>48.9</td>
+<td style='width:40%; text-align: center;'>6.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Natalia Vikhlyantseva</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>144.4</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>48.1</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>3.3</td>
+</tr>
+<tr>
+<td style='width:40%; text-align: center;'>5</td>
+<td style='width:40%; text-align: left;'>Lesia Tsurenko</td>
+<td style='width:40%; text-align: center;'>142.3</td>
+<td style='width:40%; text-align: center;'>47.4</td>
+<td style='width:40%; text-align: center;'>0.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Anett Kontaveit</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>132.5</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>44.2</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-0.6</td>
+</tr>
+<tr>
+<td style='width:40%; text-align: center;'>7</td>
 <td style='width:40%; text-align: left;'>Maria Sakkari</td>
 <td style='width:40%; text-align: center;'>130.3</td>
 <td style='width:40%; text-align: center;'>43.4</td>
 <td style='width:40%; text-align: center;'>1.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Kristina Mladenovic</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>126.8</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>42.3</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-0.9</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>128.0</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>42.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-0.6</td>
 </tr>
 <tr>
-<td style='width:40%; text-align: center;'>5</td>
-<td style='width:40%; text-align: left;'>Donna Vekic</td>
-<td style='width:40%; text-align: center;'>107.4</td>
-<td style='width:40%; text-align: center;'>53.7</td>
-<td style='width:40%; text-align: center;'>8.0</td>
+<td style='width:40%; text-align: center;'>9</td>
+<td style='width:40%; text-align: left;'>Kristina Mladenovic</td>
+<td style='width:40%; text-align: center;'>126.8</td>
+<td style='width:40%; text-align: center;'>42.3</td>
+<td style='width:40%; text-align: center;'>-0.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>10</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: left;'>Su Wei Hsieh</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>107.3</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>53.7</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>0.8</td>
 </tr>
 <tr>
-<td style='width:40%; text-align: center;'>7</td>
-<td style='width:40%; text-align: left;'>Lesia Tsurenko</td>
-<td style='width:40%; text-align: center;'>106.7</td>
-<td style='width:40%; text-align: center;'>53.3</td>
-<td style='width:40%; text-align: center;'>2.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Natalia Vikhlyantseva</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>98.7</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>49.3</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-0.5</td>
-</tr>
-<tr>
-<td style='width:40%; text-align: center;'>9</td>
-<td style='width:40%; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:40%; text-align: center;'>11</td>
+<td style='width:40%; text-align: left;'>Alison Riske</td>
 <td style='width:40%; text-align: center;'>98.6</td>
 <td style='width:40%; text-align: center;'>49.3</td>
-<td style='width:40%; text-align: center;'>1.2</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>10</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Alison Riske</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>98.6</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>49.3</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>0.2</td>
-</tr>
-<tr>
-<td style='width:40%; text-align: center;'>11</td>
-<td style='width:40%; text-align: left;'>Evgeniya Rodina</td>
-<td style='width:40%; text-align: center;'>94.4</td>
-<td style='width:40%; text-align: center;'>47.2</td>
-<td style='width:40%; text-align: center;'>-1.9</td>
+<td style='width:40%; text-align: center;'>0.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>12</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Andrea Petkovic</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>93.5</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>46.7</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-1.5</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Evgeniya Rodina</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>94.4</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>47.2</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-1.9</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>13</td>
+<td style='width:40%; text-align: left;'>Andrea Petkovic</td>
+<td style='width:40%; text-align: center;'>93.5</td>
+<td style='width:40%; text-align: center;'>46.7</td>
+<td style='width:40%; text-align: center;'>-1.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>14</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Johanna Konta</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>91.0</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>45.5</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>0.3</td>
+</tr>
+<tr>
+<td style='width:40%; text-align: center;'>15</td>
 <td style='width:40%; text-align: left;'>Arantxa Rus</td>
 <td style='width:40%; text-align: center;'>90.6</td>
 <td style='width:40%; text-align: center;'>45.3</td>
 <td style='width:40%; text-align: center;'>3.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>14</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Anett Kontaveit</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>16</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Christina Mchale</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>90.5</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>45.2</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-1.1</td>
-</tr>
-<tr>
-<td style='width:40%; text-align: center;'>15</td>
-<td style='width:40%; text-align: left;'>Christina Mchale</td>
-<td style='width:40%; text-align: center;'>90.5</td>
-<td style='width:40%; text-align: center;'>45.2</td>
-<td style='width:40%; text-align: center;'>1.2</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>16</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Richel Hogenkamp</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>88.6</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>44.3</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>2.0</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>1.2</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>17</td>
-<td style='width:40%; text-align: left;'>Carina Witthoeft</td>
-<td style='width:40%; text-align: center;'>82.0</td>
-<td style='width:40%; text-align: center;'>41.0</td>
+<td style='width:40%; text-align: left;'>Richel Hogenkamp</td>
+<td style='width:40%; text-align: center;'>88.6</td>
+<td style='width:40%; text-align: center;'>44.3</td>
 <td style='width:40%; text-align: center;'>2.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>18</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Aliaksandra Sasnovich</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>81.1</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>40.5</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Carina Witthoeft</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>82.0</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>41.0</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>2.0</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>19</td>
-<td style='width:40%; text-align: left;'>Antonia Lottner</td>
-<td style='width:40%; text-align: center;'>80.2</td>
-<td style='width:40%; text-align: center;'>40.1</td>
-<td style='width:40%; text-align: center;'>-1.1</td>
+<td style='width:40%; text-align: left;'>Aliaksandra Sasnovich</td>
+<td style='width:40%; text-align: center;'>81.1</td>
+<td style='width:40%; text-align: center;'>40.5</td>
+<td style='width:40%; text-align: center;'>2.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>20</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Kristie Ahn</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>77.5</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>38.8</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-2.6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Antonia Lottner</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>80.2</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>40.1</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-1.1</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>21</td>
-<td style='width:40%; text-align: left;'>Ashleigh Barty</td>
-<td style='width:40%; text-align: center;'>73.7</td>
-<td style='width:40%; text-align: center;'>36.9</td>
-<td style='width:40%; text-align: center;'>-2.7</td>
+<td style='width:40%; text-align: left;'>Kristie Ahn</td>
+<td style='width:40%; text-align: center;'>77.5</td>
+<td style='width:40%; text-align: center;'>38.8</td>
+<td style='width:40%; text-align: center;'>-2.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>22</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Andrea Hlavackova</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>70.0</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>35.0</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>1.4</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Ashleigh Barty</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>73.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>36.9</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-2.7</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>23</td>
-<td style='width:40%; text-align: left;'>Magda Linette</td>
-<td style='width:40%; text-align: center;'>67.7</td>
-<td style='width:40%; text-align: center;'>33.9</td>
-<td style='width:40%; text-align: center;'>0.7</td>
+<td style='width:40%; text-align: left;'>Andrea Hlavackova</td>
+<td style='width:40%; text-align: center;'>70.0</td>
+<td style='width:40%; text-align: center;'>35.0</td>
+<td style='width:40%; text-align: center;'>1.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>24</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Camila Giorgi</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>60.7</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>30.3</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-1.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Magda Linette</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>67.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>33.9</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>0.7</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>25</td>
-<td style='width:40%; text-align: left;'>Kurumi Nara</td>
-<td style='width:40%; text-align: center;'>55.5</td>
-<td style='width:40%; text-align: center;'>55.5</td>
-<td style='width:40%; text-align: center;'>0.7</td>
+<td style='width:40%; text-align: left;'>Camila Giorgi</td>
+<td style='width:40%; text-align: center;'>60.7</td>
+<td style='width:40%; text-align: center;'>30.3</td>
+<td style='width:40%; text-align: center;'>-1.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>26</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Julia Boserup</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>47.8</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>47.8</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>1.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Kurumi Nara</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>55.5</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>55.5</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>0.7</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>27</td>
-<td style='width:40%; text-align: left;'>Johanna Konta</td>
-<td style='width:40%; text-align: center;'>45.4</td>
-<td style='width:40%; text-align: center;'>45.4</td>
-<td style='width:40%; text-align: center;'>-0.3</td>
+<td style='width:40%; text-align: left;'>Julia Boserup</td>
+<td style='width:40%; text-align: center;'>47.8</td>
+<td style='width:40%; text-align: center;'>47.8</td>
+<td style='width:40%; text-align: center;'>1.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>28</td>

@@ -9,7 +9,7 @@ title = "In-Match Prediction Report"
 The following chart and table show the point-by-point match win prediction for the player who ultimately won the match.
 
 <div>
-<img src="/img/plots/Gilles_Muller_d_Aljaz_Bedene_Hertogenbosch.png" width = "100%">
+<img src="/img/plots/Feliciano_Lopez_d_Mischa_Zverev_Stuttgart.png" width = "100%">
 </div>
 
 <br>
@@ -27,1300 +27,1628 @@ The following chart and table show the point-by-point match win prediction for t
 </thead>
 <tbody>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>65.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>55.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>66.3</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>71.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>66.3</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>71.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>66.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>56.4</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>59.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>61.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>67.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>74.2</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>76.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>82.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>81.4</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>86.6</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>87.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>90.1</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>87.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>87.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>90.4</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>87.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>87.4</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>84.6</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>84.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>79.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>81.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>49.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>85.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>56.5</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>86.0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>57.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>88.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>63.0</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>86.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>88.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>86.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>85.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>88.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>85.6</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>80.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>82.3</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>79.9</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>72.3</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>74.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>81.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>83.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>87.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>87.2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>56.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>84.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>55.7</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>84.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>81.6</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>82.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>86.2</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>82.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>83.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>55.5</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>86.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>85.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>82.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>82.1</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>85.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>85.6</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>84.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>85.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>86.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>88.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>88.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>55.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>85.4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>56.4</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>88.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>49.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>92.2</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>95.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>93.1</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>90.9</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>87.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>86.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>89.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>89.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>90.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>91.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>92.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>91.9</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>91.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>56.3</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>88.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>90.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>93.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>95.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>93.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>90.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>90.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>86.6</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>87.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>83.2</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>87.4</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>81.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>70.4</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>69.1</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>64.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>63.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>63.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>63.3</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>63.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>63.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>67.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>57.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>67.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>62.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>68.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>62.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>61.2</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>65.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>68.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-A</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>76.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>71.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>65.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>62.8</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>64.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>56.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>68.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>55.6</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>69.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>69.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50.0</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>67.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>51.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>62.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>57.1</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>57.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>62.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>56.3</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>62.7</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>61.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>63.2</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>60.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>54.7</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>56.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>61.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>56.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>57.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>62.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>61.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>60.7</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>55.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>54.7</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>54.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>46.8</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>53.9</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>55.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>57.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>46.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>61.9</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>51.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>56.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>62.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>56.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40.4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>54.9</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>24.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>60.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>54.4</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>41.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>35.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>46.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40.1</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>26.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>21.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>29.9</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>21.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>46.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>53.7</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>55.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>48.6</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>55.9</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>57.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>64.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>57.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>56.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>54.7</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1-1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>37.6</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2-1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1-3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>45.8</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1-4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>36.9</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5-1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>26.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5-2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>20.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2-6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>27.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2-7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>19.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.4</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>14.2</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>17.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18.4</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.9</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>17.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>14.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>14.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>17.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>14.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15.3</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18.6</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.9</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>14.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.0</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>17.4</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>14.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>14.7</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18.8</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>16.7</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>21.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.8</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15.9</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>14.8</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>19.3</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>22.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>28.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>25.6</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>29.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>26.4</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>23.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>22.2</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>23.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>24.4</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>23.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>24.6</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>25.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>21.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>20.3</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>17.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18.7</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>21.9</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18.6</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>19.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>22.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1-1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>14.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2-1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>22.4</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2-2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>26.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3-2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>22.4</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3-3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4-3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>22.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4-4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>29.9</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4-5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>22.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6-4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>39.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7-4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>44.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>51.6</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>55.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>55.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>56.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>63.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>57.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>54.7</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>53.3</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>52.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>54.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>51.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>54.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>55.6</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>54.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>56.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>51.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50.6</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>54.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>53.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>51.7</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>52.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>51.4</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>20.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>22.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>31.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40.3</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>54.4</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>46.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>62.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>65.3</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>67.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>65.1</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>57.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>45.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>63.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>49.3</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>66.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>53.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>51.7</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>51.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>51.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>52.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>49.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>45.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>49.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>63.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>51.4</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>58.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>49.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>57.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>48.4</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>49.9</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>48.2</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>56.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>47.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>62.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>42.6</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>55.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>46.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>45.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>49.6</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>28.2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>51.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>37.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>53.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>60.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>64.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>70.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>53.9</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>81.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>51.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: left;'>Aljaz Bedene</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>0-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>92.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>48.6</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>52.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>47.9</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>41.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>44.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>49.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>51.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>51.7</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>49.9</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>55.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>62.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>79.2</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; border-bottom: 2px solid grey; text-align: left;'>Mischa Zverev</td>
+<td style='width:20%;padding:2%;margin:2%; border-bottom: 2px solid grey; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; border-bottom: 2px solid grey; text-align: center;'>12</td>
+<td style='width:20%;padding:2%;margin:2%; border-bottom: 2px solid grey; text-align: center;'>30-40</td>
+<td style='width:20%;padding:2%;margin:2%; border-bottom: 2px solid grey; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; border-bottom: 2px solid grey; text-align: center;'>70.7</td>
 </tr>
 </tbody>
 </table>
