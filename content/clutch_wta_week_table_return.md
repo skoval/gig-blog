@@ -23,45 +23,45 @@ Return clutch ratings are based on the average clutch return performance in matc
 <tbody>
 <tr>
 <td style='width:40%; text-align: center;'>1</td>
-<td style='width:40%; text-align: left;'>Lucie Safarova</td>
-<td style='width:40%; text-align: center;'>176.7</td>
-<td style='width:40%; text-align: center;'>44.2</td>
-<td style='width:40%; text-align: center;'>1.6</td>
+<td style='width:40%; text-align: left;'>Donna Vekic</td>
+<td style='width:40%; text-align: center;'>185.8</td>
+<td style='width:40%; text-align: center;'>46.4</td>
+<td style='width:40%; text-align: center;'>5.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Ana Konjuh</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>167.4</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>41.8</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-0.4</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Anett Kontaveit</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>185.1</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>46.3</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-0.0</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>3</td>
-<td style='width:40%; text-align: left;'>Donna Vekic</td>
-<td style='width:40%; text-align: center;'>146.8</td>
-<td style='width:40%; text-align: center;'>48.9</td>
-<td style='width:40%; text-align: center;'>6.2</td>
+<td style='width:40%; text-align: left;'>Natalia Vikhlyantseva</td>
+<td style='width:40%; text-align: center;'>176.8</td>
+<td style='width:40%; text-align: center;'>44.2</td>
+<td style='width:40%; text-align: center;'>2.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Natalia Vikhlyantseva</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>144.4</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>48.1</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>3.3</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Lucie Safarova</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>176.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>44.2</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>1.6</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>5</td>
-<td style='width:40%; text-align: left;'>Lesia Tsurenko</td>
-<td style='width:40%; text-align: center;'>142.3</td>
-<td style='width:40%; text-align: center;'>47.4</td>
-<td style='width:40%; text-align: center;'>0.7</td>
+<td style='width:40%; text-align: left;'>Ana Konjuh</td>
+<td style='width:40%; text-align: center;'>167.4</td>
+<td style='width:40%; text-align: center;'>41.8</td>
+<td style='width:40%; text-align: center;'>-0.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Anett Kontaveit</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>132.5</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>44.2</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-0.6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Lesia Tsurenko</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>142.3</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>47.4</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>0.7</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>7</td>
@@ -86,38 +86,38 @@ Return clutch ratings are based on the average clutch return performance in matc
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>10</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Su Wei Hsieh</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>107.3</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>53.7</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>0.8</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Johanna Konta</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>121.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>40.6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-1.8</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>11</td>
-<td style='width:40%; text-align: left;'>Alison Riske</td>
-<td style='width:40%; text-align: center;'>98.6</td>
-<td style='width:40%; text-align: center;'>49.3</td>
-<td style='width:40%; text-align: center;'>0.2</td>
+<td style='width:40%; text-align: left;'>Su Wei Hsieh</td>
+<td style='width:40%; text-align: center;'>107.3</td>
+<td style='width:40%; text-align: center;'>53.7</td>
+<td style='width:40%; text-align: center;'>0.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>12</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Evgeniya Rodina</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>94.4</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>47.2</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-1.9</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Alison Riske</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>98.6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>49.3</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>0.2</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>13</td>
-<td style='width:40%; text-align: left;'>Andrea Petkovic</td>
-<td style='width:40%; text-align: center;'>93.5</td>
-<td style='width:40%; text-align: center;'>46.7</td>
-<td style='width:40%; text-align: center;'>-1.5</td>
+<td style='width:40%; text-align: left;'>Evgeniya Rodina</td>
+<td style='width:40%; text-align: center;'>94.4</td>
+<td style='width:40%; text-align: center;'>47.2</td>
+<td style='width:40%; text-align: center;'>-1.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>14</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Johanna Konta</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>91.0</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>45.5</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>0.3</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Andrea Petkovic</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>93.5</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>46.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-1.5</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>15</td>

@@ -20,51 +20,51 @@ The return ratings shown here are based on the current week's matches. Return pe
 <tbody>
 <tr>
 <td style='width:40%; text-align: center;'>1</td>
-<td style='width:40%; text-align: left;'>Johanna Konta</td>
-<td style='width:40%; text-align: center;'>205.7</td>
-<td style='width:40%; text-align: center;'>51.4</td>
+<td style='width:40%; text-align: left;'>Anett Kontaveit</td>
+<td style='width:40%; text-align: center;'>243.1</td>
+<td style='width:40%; text-align: center;'>48.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Lesia Tsurenko</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>190.4</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>47.6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Johanna Konta</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>238.3</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>47.7</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>3</td>
-<td style='width:40%; text-align: left;'>Anett Kontaveit</td>
-<td style='width:40%; text-align: center;'>188.1</td>
-<td style='width:40%; text-align: center;'>47.0</td>
+<td style='width:40%; text-align: left;'>Donna Vekic</td>
+<td style='width:40%; text-align: center;'>210.0</td>
+<td style='width:40%; text-align: center;'>42.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Donna Vekic</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>170.3</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>42.6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Natalia Vikhlyantseva</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>193.6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>38.7</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>5</td>
-<td style='width:40%; text-align: left;'>Lucie Safarova</td>
-<td style='width:40%; text-align: center;'>166.3</td>
-<td style='width:40%; text-align: center;'>41.6</td>
+<td style='width:40%; text-align: left;'>Lesia Tsurenko</td>
+<td style='width:40%; text-align: center;'>190.4</td>
+<td style='width:40%; text-align: center;'>47.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>162.1</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>40.5</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Lucie Safarova</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>166.3</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>41.6</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>7</td>
-<td style='width:40%; text-align: left;'>Ana Konjuh</td>
-<td style='width:40%; text-align: center;'>161.7</td>
-<td style='width:40%; text-align: center;'>40.4</td>
+<td style='width:40%; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:40%; text-align: center;'>162.1</td>
+<td style='width:40%; text-align: center;'>40.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Natalia Vikhlyantseva</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>156.5</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>39.1</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Ana Konjuh</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>161.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>40.4</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>9</td>
