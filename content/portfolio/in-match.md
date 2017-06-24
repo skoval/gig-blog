@@ -12,17 +12,17 @@ Point-by-point win predictions for tennis matches.
 <!--more-->
 
 
-The list below contains links to in-match win predictions for recently completed matches. Updated: 2017-06-23
+The list below contains links to in-match win predictions for recently completed matches. Updated: 2017-06-24
 
 <ul>
-<li><a href="/match1/">Daniil Medvedev d Thanasi Kokkinakis London</a></li>
-<li><a href="/match2/">Roger Federer d Mischa Zverev Halle</a></li>
-<li><a href="/match3/">Feliciano Lopez d Jeremy Chardy London</a></li>
-<li><a href="/match4/">Tomas Berdych d Denis Shapovalov London</a></li>
-<li><a href="/match5/">Marin Cilic d Stefan Kozlov London</a></li>
-<li><a href="/match6/">Kristina Mladenovic d Shuai Zhang Birmingham</a></li>
-<li><a href="/match7/">Coco Vandeweghe d Johanna Konta Birmingham</a></li>
-<li><a href="/match8/">Ana Konjuh d Viktorija Golubic Mallorca</a></li>
-<li><a href="/match9/">Lucie Safarova d Naomi Osaka Birmingham</a></li>
-<li><a href="/match10/">Garbine Muguruza d Alison Riske Birmingham</a></li>
+<li><a href="/match1/">Roger Federer d Karen Khachanov Halle</a></li>
+<li><a href="/match2/">Gilles Muller d Sam Querrey London</a></li>
+<li><a href="/match3/">Grigor Dimitrov d Daniil Medvedev London</a></li>
+<li><a href="/match4/">Feliciano Lopez d Tomas Berdych London</a></li>
+<li><a href="/match5/">Karen Khachanov d Andrey Rublev Halle</a></li>
+<li><a href="/match6/">Caroline Garcia d Roberta Vinci Mallorca</a></li>
+<li><a href="/match7/">Julia Goerges d Sabine Lisicki Mallorca</a></li>
+<li><a href="/match8/">Petra Kvitova d Kristina Mladenovic Birmingham</a></li>
+<li><a href="/match9/">Lucie Safarova d Daria Gavrilova Birmingham</a></li>
+<li><a href="/match10/">Caroline Garcia d Jana Cepelova Mallorca</a></li>
 </ul>
