@@ -12,17 +12,17 @@ Point-by-point win predictions for tennis matches.
 <!--more-->
 
 
-The list below contains links to in-match win predictions for recently completed matches. Updated: 2017-06-25
+The list below contains links to in-match win predictions for recently completed matches. Updated: 2017-06-28
 
 <ul>
-<li><a href="/match1/">Steve Darcis d Denis Istomin Antalya</a></li>
-<li><a href="/match2/">Roger Federer d Alexander Zverev Halle</a></li>
-<li><a href="/match3/">Adrian Mannarino d Borna Coric Antalya</a></li>
-<li><a href="/match4/">Feliciano Lopez d Marin Cilic London</a></li>
-<li><a href="/match5/">Roger Federer d Karen Khachanov Halle</a></li>
-<li><a href="/match6/">Alison Riske d Alize Cornet Eastbourne</a></li>
-<li><a href="/match7/">Anastasija Sevastova d Julia Goerges Mallorca</a></li>
-<li><a href="/match8/">Petra Kvitova d Ashleigh Barty Birmingham</a></li>
-<li><a href="/match9/">Carla Suarez Navarro d Ekaterina Makarova Eastbourne</a></li>
-<li><a href="/match10/">Heather Watson d Lesia Tsurenko Eastbourne</a></li>
+<li><a href="/match1/">Fernando Verdasco d Steve Darcis Antalya</a></li>
+<li><a href="/match2/">Andreas Seppi d Juan Ignacio Galarza Antalya</a></li>
+<li><a href="/match3/">Janko Tipsarevic d Lloyd George Muirhead Harris Antalya</a></li>
+<li><a href="/match4/">Daniel Altmaier d Victor Estrella Antalya</a></li>
+<li><a href="/match5/">Ramkumar Ramanathan d Dominic Thiem Antalya</a></li>
+<li><a href="/match6/">Kristyna Pliskova d Naomi Broady Eastbourne</a></li>
+<li><a href="/match7/">Shuai Zhang d Varvara Lepchenko Eastbourne</a></li>
+<li><a href="/match8/">Karolina Pliskova d Alison Riske Eastbourne</a></li>
+<li><a href="/match9/">Heather Watson d Dominika Cibulkova Eastbourne</a></li>
+<li><a href="/match10/">Shuai Peng d Francesca Schiavone Eastbourne</a></li>
 </ul>
