@@ -6,7 +6,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Current WTA Serve Ratings"
 +++
 
-The serve ratings shown here are based on the current week's matches. Serve performance is adjusted for opponent return ability and will not be equal to the actual serve percentage won. Players are ranked according to the average adjusted serve performance. Updated: 2017-06-30
+The serve ratings shown here are based on the current week's matches. Serve performance is adjusted for opponent return ability and will not be equal to the actual serve percentage won. Players are ranked according to the average adjusted serve performance. Updated: 2017-07-01
 
 <table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
 <thead>
@@ -21,20 +21,20 @@ The serve ratings shown here are based on the current week's matches. Serve perf
 <tr>
 <td style='width:40%; text-align: center;'>1</td>
 <td style='width:40%; text-align: left;'>Heather Watson</td>
-<td style='width:40%; text-align: center;'>256.9</td>
-<td style='width:40%; text-align: center;'>64.2</td>
+<td style='width:40%; text-align: center;'>309.8</td>
+<td style='width:40%; text-align: center;'>62.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Barbora Zahlavova Strycova</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>243.0</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>60.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Caroline Wozniacki</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>251.9</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>63.0</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>3</td>
-<td style='width:40%; text-align: left;'>Caroline Wozniacki</td>
-<td style='width:40%; text-align: center;'>195.8</td>
-<td style='width:40%; text-align: center;'>65.3</td>
+<td style='width:40%; text-align: left;'>Barbora Zahlavova Strycova</td>
+<td style='width:40%; text-align: center;'>243.0</td>
+<td style='width:40%; text-align: center;'>60.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>4</td>

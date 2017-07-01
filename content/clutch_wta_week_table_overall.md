@@ -7,7 +7,7 @@ title = "Current Overall WTA Clutch Ratings"
 +++
 
 
-Overall clutch ratings are based on the sum of the average serve and return clutch performance in matches for the current week. Updated: 2017-06-30
+Overall clutch ratings are based on the sum of the average serve and return clutch performance in matches for the current week. Updated: 2017-07-01
 
 
 <table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
@@ -24,65 +24,65 @@ Overall clutch ratings are based on the sum of the average serve and return clut
 <tr>
 <td style='width:40%; text-align: center;'>1</td>
 <td style='width:40%; text-align: left;'>Heather Watson</td>
-<td style='width:40%; text-align: center;'>439.8</td>
-<td style='width:40%; text-align: center;'>110.0</td>
-<td style='width:40%; text-align: center;'>1.9</td>
+<td style='width:40%; text-align: center;'>531.8</td>
+<td style='width:40%; text-align: center;'>106.4</td>
+<td style='width:40%; text-align: center;'>1.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Karolina Pliskova</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>330.2</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>110.1</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>5.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Caroline Wozniacki</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>331.0</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>110.3</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>1.4</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>3</td>
-<td style='width:40%; text-align: left;'>Lauren Davis</td>
-<td style='width:40%; text-align: center;'>324.2</td>
-<td style='width:40%; text-align: center;'>108.1</td>
-<td style='width:40%; text-align: center;'>1.2</td>
+<td style='width:40%; text-align: left;'>Karolina Pliskova</td>
+<td style='width:40%; text-align: center;'>330.2</td>
+<td style='width:40%; text-align: center;'>110.1</td>
+<td style='width:40%; text-align: center;'>5.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Shuai Peng</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>316.1</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>105.4</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>3.3</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Lauren Davis</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>324.2</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>108.1</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>1.2</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>5</td>
-<td style='width:40%; text-align: left;'>Svetlana Kuznetsova</td>
-<td style='width:40%; text-align: center;'>314.0</td>
-<td style='width:40%; text-align: center;'>104.7</td>
-<td style='width:40%; text-align: center;'>8.3</td>
+<td style='width:40%; text-align: left;'>Shuai Peng</td>
+<td style='width:40%; text-align: center;'>316.1</td>
+<td style='width:40%; text-align: center;'>105.4</td>
+<td style='width:40%; text-align: center;'>3.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Barbora Zahlavova Strycova</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>312.0</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>104.0</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>1.0</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Svetlana Kuznetsova</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>314.0</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>104.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>8.3</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>7</td>
-<td style='width:40%; text-align: left;'>Simona Halep</td>
-<td style='width:40%; text-align: center;'>299.8</td>
-<td style='width:40%; text-align: center;'>99.9</td>
-<td style='width:40%; text-align: center;'>-2.0</td>
+<td style='width:40%; text-align: left;'>Barbora Zahlavova Strycova</td>
+<td style='width:40%; text-align: center;'>312.0</td>
+<td style='width:40%; text-align: center;'>104.0</td>
+<td style='width:40%; text-align: center;'>1.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Veronica Cepede Royg</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>259.7</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>86.6</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-5.8</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>299.8</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>99.9</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>-2.0</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>9</td>
-<td style='width:40%; text-align: left;'>Caroline Wozniacki</td>
-<td style='width:40%; text-align: center;'>223.0</td>
-<td style='width:40%; text-align: center;'>111.5</td>
-<td style='width:40%; text-align: center;'>1.3</td>
+<td style='width:40%; text-align: left;'>Veronica Cepede Royg</td>
+<td style='width:40%; text-align: center;'>259.7</td>
+<td style='width:40%; text-align: center;'>86.6</td>
+<td style='width:40%; text-align: center;'>-5.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>10</td>

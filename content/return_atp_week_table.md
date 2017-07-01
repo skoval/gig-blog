@@ -6,7 +6,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Current ATP Return Ratings"
 +++
 
-The return ratings shown here are based on the current week's matches. Return performance is adjusted for opponent serving ability and will not be equal to the actual return percentage won. Players are ranked according to the average adjusted return performance. Updated: 2017-06-30
+The return ratings shown here are based on the current week's matches. Return performance is adjusted for opponent serving ability and will not be equal to the actual return percentage won. Players are ranked according to the average adjusted return performance. Updated: 2017-07-01
 
 <table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
 <thead>
@@ -21,116 +21,116 @@ The return ratings shown here are based on the current week's matches. Return pe
 <tr>
 <td style='width:40%; text-align: center;'>1</td>
 <td style='width:40%; text-align: left;'>Daniil Medvedev</td>
-<td style='width:40%; text-align: center;'>134.7</td>
-<td style='width:40%; text-align: center;'>44.9</td>
+<td style='width:40%; text-align: center;'>173.8</td>
+<td style='width:40%; text-align: center;'>43.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: left;'>Richard Gasquet</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>130.6</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>43.5</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>168.8</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>42.2</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>3</td>
 <td style='width:40%; text-align: left;'>Yuichi Sugita</td>
-<td style='width:40%; text-align: center;'>124.1</td>
-<td style='width:40%; text-align: center;'>41.4</td>
+<td style='width:40%; text-align: center;'>165.3</td>
+<td style='width:40%; text-align: center;'>41.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: left;'>Marcos Baghdatis</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>109.8</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>36.6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>140.0</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>35.0</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>5</td>
+<td style='width:40%; text-align: left;'>Adrian Mannarino</td>
+<td style='width:40%; text-align: center;'>134.9</td>
+<td style='width:40%; text-align: center;'>33.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Andreas Seppi</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>130.5</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>32.6</td>
+</tr>
+<tr>
+<td style='width:40%; text-align: center;'>7</td>
+<td style='width:40%; text-align: left;'>Novak Djokovic</td>
+<td style='width:40%; text-align: center;'>126.4</td>
+<td style='width:40%; text-align: center;'>42.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Gael Monfils</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>115.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>38.6</td>
+</tr>
+<tr>
+<td style='width:40%; text-align: center;'>9</td>
 <td style='width:40%; text-align: left;'>Radu Albot</td>
 <td style='width:40%; text-align: center;'>109.8</td>
 <td style='width:40%; text-align: center;'>36.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>10</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: left;'>Ramkumar Ramanathan</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>105.0</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>35.0</td>
 </tr>
 <tr>
-<td style='width:40%; text-align: center;'>7</td>
+<td style='width:40%; text-align: center;'>11</td>
 <td style='width:40%; text-align: left;'>Donald Young</td>
 <td style='width:40%; text-align: center;'>104.6</td>
 <td style='width:40%; text-align: center;'>34.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Andreas Seppi</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>93.1</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>31.0</td>
-</tr>
-<tr>
-<td style='width:40%; text-align: center;'>9</td>
-<td style='width:40%; text-align: left;'>Adrian Mannarino</td>
-<td style='width:40%; text-align: center;'>89.9</td>
-<td style='width:40%; text-align: center;'>30.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>10</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>12</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: left;'>Bernard Tomic</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>88.4</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>29.5</td>
 </tr>
 <tr>
-<td style='width:40%; text-align: center;'>11</td>
-<td style='width:40%; text-align: left;'>Novak Djokovic</td>
-<td style='width:40%; text-align: center;'>85.6</td>
-<td style='width:40%; text-align: center;'>42.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>12</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Vasek Pospisil</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>85.1</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>42.6</td>
-</tr>
-<tr>
 <td style='width:40%; text-align: center;'>13</td>
-<td style='width:40%; text-align: left;'>Fernando Verdasco</td>
-<td style='width:40%; text-align: center;'>82.1</td>
-<td style='width:40%; text-align: center;'>41.0</td>
+<td style='width:40%; text-align: left;'>Vasek Pospisil</td>
+<td style='width:40%; text-align: center;'>85.1</td>
+<td style='width:40%; text-align: center;'>42.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>14</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Kevin Anderson</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>82.0</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Fernando Verdasco</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>82.1</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>41.0</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>15</td>
-<td style='width:40%; text-align: left;'>Daniel Altmaier</td>
-<td style='width:40%; text-align: center;'>81.1</td>
-<td style='width:40%; text-align: center;'>27.0</td>
+<td style='width:40%; text-align: left;'>Kevin Anderson</td>
+<td style='width:40%; text-align: center;'>82.0</td>
+<td style='width:40%; text-align: center;'>41.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>16</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Carlos Berlocq</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>77.0</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>38.5</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Daniel Altmaier</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>81.1</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>27.0</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>17</td>
-<td style='width:40%; text-align: left;'>Robin Haase</td>
-<td style='width:40%; text-align: center;'>75.0</td>
-<td style='width:40%; text-align: center;'>37.5</td>
+<td style='width:40%; text-align: left;'>Carlos Berlocq</td>
+<td style='width:40%; text-align: center;'>77.0</td>
+<td style='width:40%; text-align: center;'>38.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>18</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Thomas Fabbiano</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>73.8</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>36.9</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Robin Haase</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>75.0</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>37.5</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>19</td>
-<td style='width:40%; text-align: left;'>Gael Monfils</td>
-<td style='width:40%; text-align: center;'>72.9</td>
-<td style='width:40%; text-align: center;'>36.5</td>
+<td style='width:40%; text-align: left;'>Thomas Fabbiano</td>
+<td style='width:40%; text-align: center;'>73.8</td>
+<td style='width:40%; text-align: center;'>36.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>20</td>
