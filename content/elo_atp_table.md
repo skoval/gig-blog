@@ -6,7 +6,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "ATP Career Elo Ratings"
 +++
 
-The following table includes the current career and surface-specific Elo ratings for ATP players. Updated: 2017-07-01
+The following table includes the current career and surface-specific Elo ratings for ATP players. Updated: 2017-07-06
 
 <table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
 <thead>
@@ -23,9 +23,9 @@ The following table includes the current career and surface-specific Elo ratings
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Novak Djokovic</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2400.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2402.2</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>2350.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2196.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2199.9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>2350.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
@@ -143,9 +143,9 @@ The following table includes the current career and surface-specific Elo ratings
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gael Monfils</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>16</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2049.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2047.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1947.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1778.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1774.4</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1980.2</td>
 </tr>
 <tr>
