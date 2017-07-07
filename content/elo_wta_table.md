@@ -6,7 +6,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "WTA Career Elo Ratings"
 +++
 
-The following table includes the current career and surface-specific Elo ratings for WTA players. Updated: 2017-07-06
+The following table includes the current career and surface-specific Elo ratings for WTA players. Updated: 2017-07-07
 
 <table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
 <thead>
@@ -69,35 +69,35 @@ The following table includes the current career and surface-specific Elo ratings
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2016.9</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Karolina Pliskova</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Petra Kvitova</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2087.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1792.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1844.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2042.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2087.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1847.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1870.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2063.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Petra Kvitova</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Caroline Wozniacki</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2087.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1847.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1870.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2063.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2068.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1840.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1812.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2025.4</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Caroline Wozniacki</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Karolina Pliskova</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2065.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1840.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1794.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2025.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2064.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1792.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1797.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2042.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2049.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2053.7</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1854.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1919.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1930.2</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2016.8</td>
 </tr>
 <tr>
@@ -109,59 +109,59 @@ The following table includes the current career and surface-specific Elo ratings
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1984.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Svetlana Kuznetsova</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2029.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1983.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1669.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1670.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2033.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1941.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1761.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1949.7</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Svetlana Kuznetsova</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>13</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2027.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1941.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1736.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1949.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2029.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1983.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1669.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1670.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Kristina Mladenovic</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Agnieszka Radwanska</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>14</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2005.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1901.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1708.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1880.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2000.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1821.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1828.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1990.2</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Agnieszka Radwanska</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Garbine Muguruza</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>15</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1998.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1821.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1819.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1990.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1996.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1978.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1682.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1980.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Garbine Muguruza</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anett Kontaveit</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>16</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1996.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1978.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1682.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1980.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1992.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1713.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1760.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1757.5</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Anett Kontaveit</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Kristina Mladenovic</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>17</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1987.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1713.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1738.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1757.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1984.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1901.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1677.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1880.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Timea Bacsinszky</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1972.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1977.8</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1921.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1656.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1678.3</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1864.3</td>
 </tr>
 <tr>
@@ -183,9 +183,9 @@ The following table includes the current career and surface-specific Elo ratings
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>21</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1951.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1955.3</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1631.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1845.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1852.6</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1780.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
@@ -229,28 +229,28 @@ The following table includes the current career and surface-specific Elo ratings
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1879.4</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Lucie Safarova</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Dominika Cibulkova</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>27</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1922.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1811.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1764.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1860.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1921.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1748.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1763.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1908.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Dominika Cibulkova</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Carla Suarez Navarro</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>28</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1921.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1748.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1763.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1908.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1915.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1887.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1656.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1827.9</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Carla Suarez Navarro</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Lucie Safarova</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>29</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1915.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1887.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1656.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1827.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1908.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1811.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1722.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1860.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Caroline Garcia</td>
@@ -285,20 +285,20 @@ The following table includes the current career and surface-specific Elo ratings
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1767.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Makarova</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Samantha Stosur</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>34</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1889.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1752.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1751.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1827.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1888.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1918.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1591.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1769.5</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Samantha Stosur</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Lesia Tsurenko</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>35</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1888.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1918.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1591.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1769.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1882.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1620.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1563.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1869.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ana Ivanovic</td>
@@ -309,180 +309,180 @@ The following table includes the current career and surface-specific Elo ratings
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1876.1</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Daria Gavrilova</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ekaterina Makarova</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>37</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1873.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1808.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1522.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1861.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1881.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1752.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1725.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1827.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Laura Ioana Andrei</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Daria Gavrilova</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>38</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1873.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1679.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1774.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1873.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1808.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1522.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1861.7</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Lesia Tsurenko</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Laura Ioana Andrei</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>39</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1872.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1620.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1517.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1869.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julia Goerges</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1868.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1672.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1540.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1832.8</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ana Konjuh</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>41</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1868.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1630.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1725.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1838.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Sloane Stephens</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>42</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1863.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1826.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1699.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1788.0</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Elena Vesnina</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>43</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1862.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1695.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1787.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1839.9</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Carina Witthoeft</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>44</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1858.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1676.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1655.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1695.8</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Catherine Cartan Bellis</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>45</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1855.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1773.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1532.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1792.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1873.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1679.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1774.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Alison Riske</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>46</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1847.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1871.1</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1578.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1693.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1723.2</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1782.4</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Patty Schnyder</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>47</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1843.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1739.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Julia Goerges</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>41</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1868.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1672.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1540.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1832.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Heather Watson</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>48</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1841.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1590.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1684.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1703.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ana Konjuh</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>42</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1868.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1630.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1725.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1838.5</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Mirjana Lucic</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>49</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1839.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1655.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1568.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1842.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Sloane Stephens</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>43</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1863.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1826.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1699.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1788.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Kiki Bertens</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1837.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1907.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1582.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1532.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Elena Vesnina</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>44</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1862.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1695.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1787.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1839.9</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Carina Witthoeft</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>45</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1858.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1676.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1655.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1695.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Catherine Cartan Bellis</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>46</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1855.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1773.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1532.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1792.0</td>
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Magdalena Rybarikova</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>51</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1827.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>47</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1850.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1520.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1672.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1714.2</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1734.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Naomi Osaka</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>52</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1826.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1533.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1610.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1844.9</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Lauren Davis</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>53</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1825.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1557.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1500.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1868.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Sara Errani</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>54</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1811.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1808.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1460.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1745.8</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Kaia Kanepi</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>55</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1810.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1754.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1795.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Olga Arruabarrena Vecino</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>56</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1810.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1732.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Patty Schnyder</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>48</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1843.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1739.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1640.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Deniz Khazaniuk</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>57</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1807.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1732.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1807.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Heather Watson</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>49</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1841.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1590.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1684.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1703.9</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mirjana Lucic</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1839.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1655.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1568.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1842.9</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Kiki Bertens</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>51</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1837.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1907.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1582.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1532.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Shelby Rogers</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>58</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1806.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>52</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1833.8</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1778.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1516.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1596.1</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1695.6</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Naomi Osaka</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>53</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1826.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1533.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1610.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1844.9</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Lauren Davis</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>54</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1825.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1557.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1500.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1868.6</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Sara Errani</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>55</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1811.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1808.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1460.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1745.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Kaia Kanepi</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>56</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1810.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1754.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1795.7</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Olga Arruabarrena Vecino</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>57</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1810.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1732.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1640.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Deniz Khazaniuk</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>58</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1807.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1732.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1807.9</td>
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Anna Lena Friedsam</td>
@@ -557,32 +557,16 @@ The following table includes the current career and surface-specific Elo ratings
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1706.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Tsvetana Pironkova</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Shuai Zhang</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>68</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1793.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1693.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1690.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1627.3</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Shuai Zhang</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>69</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1791.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1546.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1453.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1815.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Varvara Lepchenko</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>70</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1789.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1674.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1448.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1741.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1791.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1546.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1453.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1815.1</td>
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Belinda Bencic</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>71</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>69</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1789.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1545.6</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1767.3</td>
@@ -590,75 +574,91 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Qiang Wang</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>72</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>70</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1788.8</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1609.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1411.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1730.6</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Marta Paigina</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Tsvetana Pironkova</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>71</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1788.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1693.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1671.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1627.3</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Marta Paigina</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>72</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1788.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1789.2</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Alize Cornet</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>73</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1788.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1789.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1787.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1646.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1491.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1761.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Alize Cornet</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Yaroslava Shvedova</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>74</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1787.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1646.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1491.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1761.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1786.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1670.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1737.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1712.9</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Yaroslava Shvedova</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jelena Jankovic</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>75</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1786.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1670.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1737.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1712.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1786.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1718.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1651.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1800.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Jankovic</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Valentini Grammatikopoulou</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>76</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1786.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1718.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1651.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1800.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1785.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1801.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Valentini Grammatikopoulou</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Aliaksandra Sasnovich</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>77</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1785.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1801.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1783.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1456.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1510.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1774.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aliaksandra Sasnovich</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Donna Vekic</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>78</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1783.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1456.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1510.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1774.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1782.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1444.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1717.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1654.9</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Donna Vekic</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Monica Niculescu</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>79</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1782.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1444.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1717.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1654.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1782.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1537.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1569.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1768.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Monica Niculescu</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Bethanie Mattek Sands</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>80</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1782.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1537.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1569.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1768.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1781.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1719.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1638.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1669.1</td>
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Veronica Miroshnichenko</td>
@@ -685,12 +685,12 @@ The following table includes the current career and surface-specific Elo ratings
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1642.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Bethanie Mattek Sands</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Varvara Lepchenko</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>84</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1773.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1719.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1605.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1669.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1771.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1674.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1413.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1741.1</td>
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Tayisiya Morderger</td>
@@ -709,36 +709,36 @@ The following table includes the current career and surface-specific Elo ratings
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Kirsten Flipkens</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Agnes Bukta</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>87</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1768.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1494.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1688.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1724.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1766.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1941.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Agnes Bukta</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Karin Knapp</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>88</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1766.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1941.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1766.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1710.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1443.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1645.3</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Karin Knapp</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Katerina Siniakova</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>89</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1766.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1710.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1443.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1645.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1766.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1677.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1485.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1760.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Katerina Siniakova</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Kirsten Flipkens</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>90</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1766.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1677.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1485.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1760.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1764.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1494.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1677.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1724.1</td>
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Kristyna Pliskova</td>
@@ -829,140 +829,140 @@ The following table includes the current career and surface-specific Elo ratings
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1694.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Yanina Wickmayer</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andrea Ka</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>102</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1750.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1589.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1632.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1694.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1749.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1520.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1741.7</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Andrea Ka</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Vania King</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>103</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1749.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1520.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1748.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1660.4</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1741.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1689.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Vania King</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Margarita Gasparyan</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>104</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1748.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1660.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1689.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1745.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1395.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1426.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1800.2</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Margarita Gasparyan</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Francesca Schiavone</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>105</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1745.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1395.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1426.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1800.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1744.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1786.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1555.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1604.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Francesca Schiavone</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Veronica Cepede Royg</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>106</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1744.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1786.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1555.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1604.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1743.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1681.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1533.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1575.5</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Veronica Cepede Royg</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Yulia Putintseva</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>107</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1743.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1681.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1533.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1575.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1740.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1743.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1374.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1684.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Yulia Putintseva</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Margarita Lazareva</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>108</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1740.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1743.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1374.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1684.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1733.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1593.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1733.5</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Margarita Lazareva</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Yanina Wickmayer</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>109</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1733.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1593.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1733.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1732.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1589.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1602.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1694.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Denisa Allertova</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Petra Martic</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>110</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1731.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1480.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1528.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1686.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1730.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1683.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1622.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1550.5</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Petra Cetkovska</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Polona Hercog</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>111</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1729.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1652.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1681.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1730.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1675.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1468.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1610.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicole Vaidisova</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Petra Cetkovska</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>112</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1727.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1729.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1652.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1739.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1681.5</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Oceane Dodin</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Nicole Vaidisova</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>113</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1727.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1752.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1376.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1651.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1727.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1739.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mariana Duque Marino</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Oceane Dodin</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>114</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1727.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1680.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1470.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1500.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1752.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1376.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1651.8</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Viktoria Azarenka</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Mariana Duque Marino</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>115</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1725.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1687.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1727.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1680.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1470.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1500.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Kimiko Date Krumm</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Viktoria Azarenka</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>116</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1725.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1725.7</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1687.8</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1667.9</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ajla Tomljanovic</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Kimiko Date Krumm</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>117</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1723.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1624.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1725.4</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1690.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1667.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Viktorija Golubic</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ajla Tomljanovic</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>118</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1721.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1541.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1630.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1645.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1723.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1624.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1690.1</td>
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Misa Eguchi</td>
@@ -1021,24 +1021,8 @@ The following table includes the current career and surface-specific Elo ratings
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1683.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Polona Hercog</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>126</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1712.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1675.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1423.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1610.8</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Petra Martic</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>127</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1710.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1683.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1583.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1550.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Bojana Jovanovski</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>128</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>126</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1709.4</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1570.3</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1046,7 +1030,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Natalia Vikhlyantseva</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>129</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>127</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1708.7</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1589.6</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1596.2</td>
@@ -1054,7 +1038,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Sofia Arvidsson</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>130</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>128</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1707.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1538.7</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1062,99 +1046,115 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Andrea Gamiz</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>131</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>129</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1706.2</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1816.9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Miriam Kolodziejova</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>132</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1703.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1856.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1703.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Viktorija Golubic</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>130</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1705.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1541.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1563.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1645.0</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jana Fett</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>133</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1702.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1505.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1622.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jessica Pegula</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>134</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1702.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1661.5</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jana Cepelova</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>135</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1700.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1668.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1517.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1574.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Daniela Hantuchova</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>136</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1699.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1658.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1689.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1639.7</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Pauline Parmentier</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>137</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1699.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1574.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1257.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1724.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Kateryna Bondarenko</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>138</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1697.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1570.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1640.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1658.1</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ons Jabeur</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>139</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1695.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1583.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1448.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1611.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Kristina Kucova</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>140</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1692.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1606.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1498.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1670.7</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Aleksandra Wozniak</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>141</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1690.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1651.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1626.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Denisa Allertova</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>131</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1705.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1480.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1486.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1686.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Zarina Diyas</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>142</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1689.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>132</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1703.8</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1573.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1649.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1690.9</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1623.6</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Miriam Kolodziejova</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>133</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1703.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1856.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1703.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jana Fett</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>134</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1702.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1505.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1622.6</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jessica Pegula</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>135</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1702.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1661.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jana Cepelova</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>136</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1700.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1668.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1517.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1574.7</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Daniela Hantuchova</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>137</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1699.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1658.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1689.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1639.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Pauline Parmentier</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>138</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1699.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1574.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1257.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1724.6</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Kateryna Bondarenko</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>139</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1697.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1570.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1640.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1658.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ons Jabeur</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>140</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1695.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1583.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1448.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1611.5</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Garbine Muguruza Blanco</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>141</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1694.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1649.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aleksandra Wozniak</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>142</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1690.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1651.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1626.5</td>
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Su Wei Hsieh</td>
@@ -1173,492 +1173,492 @@ The following table includes the current career and surface-specific Elo ratings
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1740.5</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Paula Cristina Goncalves</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Kristina Kucova</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>145</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1683.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1817.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1447.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1683.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1606.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1468.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1670.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Victoria Bosio</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Paula Cristina Goncalves</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>146</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1683.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1695.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1683.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1817.9</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1447.9</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Taylor Townsend</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Victoria Bosio</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>147</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1679.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1568.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1683.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1695.9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1651.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Dia Evtimova</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Taylor Townsend</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>148</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1679.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1677.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1679.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1568.4</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1651.0</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Sara Sorribes Tormo</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Dia Evtimova</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>149</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1679.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1566.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1442.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1624.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1679.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1677.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Samantha Crawford</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Sara Sorribes Tormo</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>150</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1679.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1468.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1523.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1632.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1566.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1442.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1624.1</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Klara Koukalova</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Samantha Crawford</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>151</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1677.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1676.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1584.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1679.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1468.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1523.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1632.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andrea Hlavackova</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Klara Koukalova</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>152</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1674.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1524.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1515.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1588.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1677.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1676.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1584.6</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Andrea Hlavackova</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>153</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1673.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1499.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1478.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1707.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1674.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1524.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1515.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1588.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Rebeka Masarova</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>154</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1671.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1653.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1451.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1673.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1499.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1478.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1707.3</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Gaia Sanesi</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Rebeka Masarova</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>155</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1671.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1712.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1671.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1653.9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1451.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Kristie Ahn</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gaia Sanesi</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>156</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1668.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1671.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1712.5</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1557.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1536.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Anastasia Gasanova</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Kristie Ahn</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>157</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1667.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1668.9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1668.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1557.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1536.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ying Ying Duan</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasia Gasanova</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>158</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1666.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1390.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1464.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1689.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1667.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1668.7</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Michelle Larcher De Brito</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ying Ying Duan</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>159</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1666.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1678.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1666.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1390.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1464.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1689.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Laura Schaeder</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Michelle Larcher De Brito</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>160</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1665.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1531.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1666.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1678.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Barbara Gatica</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Laura Schaeder</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>161</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1662.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1710.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1665.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1531.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Shahar Peer</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbara Gatica</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>162</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1660.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1639.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1662.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1710.8</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Richel Hogenkamp</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Shahar Peer</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>163</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1659.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1733.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1479.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1469.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1660.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1639.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Annika Beck</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Richel Hogenkamp</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>164</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1658.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1666.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1539.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1568.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1659.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1733.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1479.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1469.9</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Anastasia Rodionova</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Annika Beck</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>165</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1657.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1546.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1584.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1658.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1666.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1539.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1568.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magda Linette</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasia Rodionova</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>166</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1655.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1597.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1376.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1597.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1657.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1546.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1584.1</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Alla Kudryavtseva</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Magda Linette</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>167</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1654.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1621.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1655.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1597.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1376.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1597.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Olga Govortsova</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Alla Kudryavtseva</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>168</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1653.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1445.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1495.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1620.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1654.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1621.0</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Julia Boserup</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Olga Govortsova</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>169</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1652.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1450.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1535.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1658.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1653.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1445.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1495.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1620.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Xinyun Han</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julia Boserup</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>170</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1652.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1586.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1652.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1450.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1535.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1658.3</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Deborah Chiesa</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Xinyun Han</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>171</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1650.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1690.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1652.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1676.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1586.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Alexandra Dulgheru</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Deborah Chiesa</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>172</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1649.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1595.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1650.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1690.5</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1604.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1676.2</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jelena Simic</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Alexandra Dulgheru</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>173</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1647.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1679.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1649.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1595.8</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1604.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Xin Yu Wang</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Simic</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>174</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1645.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1420.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1647.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1679.8</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1605.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Pauline Payet</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Xin Yu Wang</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>175</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1645.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1563.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1645.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1420.6</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1645.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1605.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Pauline Payet</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>176</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1644.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1668.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1645.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1563.8</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1471.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1645.7</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Patricia Maria Tig</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>177</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1644.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1528.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1430.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1608.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1644.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1668.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1471.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Marina Erakovic</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Patricia Maria Tig</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>178</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1644.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1530.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1556.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1626.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1644.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1528.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1430.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1608.8</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Chieh Yu Hsu</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Marina Erakovic</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>179</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1643.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1508.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1637.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1644.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1530.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1556.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1626.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Oleksandra Korashvili</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Chieh Yu Hsu</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>180</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1643.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1709.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1508.3</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1502.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1637.8</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Fanny Stollar</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Oleksandra Korashvili</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>181</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1642.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1630.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1643.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1709.6</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1472.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1502.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Cagla Buyukakcay</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Fanny Stollar</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>182</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1642.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1628.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1455.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1492.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1642.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1630.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1472.8</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ulrikke Eikeri</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Cagla Buyukakcay</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>183</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1640.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1612.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1642.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1628.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1455.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1492.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jarmila Gajdosova</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ulrikke Eikeri</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>184</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1640.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1640.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1612.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1614.2</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Lourdes Dominguez Lino</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jarmila Gajdosova</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>185</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1638.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1614.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1640.2</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1494.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1614.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ines Murta</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Lourdes Dominguez Lino</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>186</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1636.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1596.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1638.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1614.9</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1494.4</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Evgeniya Rodina</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ines Murta</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>187</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1635.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1457.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1622.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1614.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1636.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1596.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Sachia Vickery</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Evgeniya Rodina</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>188</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1633.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1549.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1556.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1635.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1457.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1622.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1614.9</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Caroline Uebelhoer</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Sachia Vickery</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>189</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1633.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1635.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1633.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1549.6</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1621.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1556.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasiya Shoshyna</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Caroline Uebelhoer</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>190</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1632.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1668.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1633.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1635.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1463.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1621.2</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Federica Arcidiacono</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Anastasiya Shoshyna</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>191</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1630.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1630.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1632.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1668.6</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1463.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Victoria Duval</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Federica Arcidiacono</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>192</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1630.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1630.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1630.8</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1424.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1557.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Anna Blinkova</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Victoria Duval</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>193</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1628.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1674.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1481.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1666.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1630.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1424.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1557.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Kai Lin Zhang</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anna Blinkova</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>194</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1627.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1428.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1579.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1628.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1674.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1481.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1666.6</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Riya Bhatia</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Kai Lin Zhang</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>195</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1627.5</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1628.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1428.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1579.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anna Giulia Remondina</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Riya Bhatia</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>196</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1626.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1513.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1627.5</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1620.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1628.9</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Pei Chi Lee</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Anna Giulia Remondina</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>197</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1625.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1618.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1626.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1513.6</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1454.2</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Galina Voskoboeva</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>198</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1625.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1552.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1546.2</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Vanda Lukacs</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>199</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1622.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1900.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Alison Van Uytvanck</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>200</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1622.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1628.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1333.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1577.0</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Anna Karolina Schmiedlova</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>201</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1622.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1541.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1343.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1604.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Kayla Day</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>202</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1621.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1599.5</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Naima Karamoko</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>203</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1620.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1520.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Elizaveta Kulichkova</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>204</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1620.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1546.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1499.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1607.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Pei Chi Lee</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>198</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1625.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1618.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1454.2</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Sorana Mihaela Cirstea</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Galina Voskoboeva</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>199</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1625.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1552.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1546.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Vanda Lukacs</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>200</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1622.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1900.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Alison Van Uytvanck</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>201</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1622.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1628.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1333.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1577.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anna Karolina Schmiedlova</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>202</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1622.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1541.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1343.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1604.3</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Kayla Day</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>203</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1621.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1599.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Naima Karamoko</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>204</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1620.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1520.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Elizaveta Kulichkova</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>205</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1619.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1592.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1620.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1546.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1499.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1607.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Zeel Desai</td>
@@ -1765,48 +1765,32 @@ The following table includes the current career and surface-specific Elo ratings
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1477.8</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Tatjana Maria</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Sesil Karatantcheva</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>219</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1609.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1576.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1514.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1481.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1609.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1473.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1624.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Sesil Karatantcheva</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stefanie Voegele</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>220</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1609.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1473.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1624.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1609.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1553.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1326.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1601.3</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Stefanie Voegele</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Kai Chen Chang</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>221</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1609.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1553.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1326.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1601.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Kai Chen Chang</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>222</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1607.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1400.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1309.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1620.4</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Garbine Muguruza Blanco</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>223</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1606.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1576.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1607.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1400.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1309.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1620.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Bunyawi Thamchaiwat</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>224</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>222</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1606.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1814,7 +1798,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Sofia Shapatava</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>225</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>223</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1605.5</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1822,7 +1806,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Paula Ormaechea</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>226</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>224</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1605.3</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1664.7</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1830,7 +1814,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jacqueline Cako</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>227</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>225</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1604.7</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1838,7 +1822,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nathaly Kurata</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>228</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>226</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1604.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1640.9</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1846,207 +1830,207 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Mandy Minella</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>229</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>227</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1604.3</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1576.9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1374.4</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1591.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Irina Falconi</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>230</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1601.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1704.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1482.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1485.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Tatjana Maria</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>228</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1603.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1576.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1502.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1481.6</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Charlotte Roemer</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>231</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1600.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1532.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Irina Falconi</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>229</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1601.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1704.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1482.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1485.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Valeriya Strakhova</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>232</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1599.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1408.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Charlotte Roemer</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>230</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1600.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1532.7</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1594.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Vlada Ekshibarova</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>233</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1599.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1526.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Valeriya Strakhova</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>231</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1599.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1408.4</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1594.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Tereza Smitkova</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>234</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1598.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1592.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1471.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1541.5</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Yafan Wang</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>235</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1597.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1552.2</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Tamara Korpatsch</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>236</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1596.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1668.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1468.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1588.5</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Madison Bourguignon</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>237</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1595.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1594.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mai Hontama</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>238</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1594.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Vlada Ekshibarova</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>232</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1599.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1526.7</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1588.7</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Naomi Broady</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>239</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1594.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1381.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1299.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1581.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Valeria Bhunu</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>240</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1594.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1626.8</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Tereza Smitkova</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>233</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1598.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1592.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1471.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1541.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Yafan Wang</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>234</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1597.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1552.2</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Tamara Korpatsch</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>235</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1596.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1668.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1468.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1588.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Madison Bourguignon</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>236</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1595.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1594.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Francoise Abanda</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Mai Hontama</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>237</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1594.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1588.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Naomi Broady</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>238</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1594.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1381.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1299.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1581.5</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Valeria Bhunu</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>239</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1594.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1626.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Francoise Abanda</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>240</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1593.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1569.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1509.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1505.5</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Saisai Zheng</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>241</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1593.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1569.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1509.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1505.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1592.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1465.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1405.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1555.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Saisai Zheng</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Laura Robson</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>242</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1592.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1465.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1405.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1555.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1592.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1618.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1460.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1581.0</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Laura Robson</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Nicole Gibbs</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>243</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1592.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1618.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1460.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1581.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1591.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1410.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1350.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1544.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicole Gibbs</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Kateryna Kozlova</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>244</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1591.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1410.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1350.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1544.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1591.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1505.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1499.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1553.9</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Kateryna Kozlova</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Tamira Paszek</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>245</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1591.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1505.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1499.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1553.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1590.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1416.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1624.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1536.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Tamira Paszek</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Catalina Pella</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>246</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1590.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1416.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1624.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1536.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1596.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1524.9</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Catalina Pella</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Akgul Amanmuradova</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>247</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1590.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1596.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1590.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1439.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1524.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1546.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Akgul Amanmuradova</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Beatriz Haddad Maia</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>248</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1590.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1439.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1546.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1590.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1604.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1480.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1350.4</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Beatriz Haddad Maia</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Melis Sezer</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>249</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1590.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1604.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1480.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1350.4</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Melis Sezer</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>250</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1590.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1682.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Aleksandra Krunic</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>251</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1590.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1512.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1573.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1501.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Estrella Cabeza Candela</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>252</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1589.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1538.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Daria Kasatkina</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>253</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1589.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1590.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1682.9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1556.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aleksandra Krunic</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>250</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1590.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1512.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1573.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1501.7</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Estrella Cabeza Candela</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>251</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1589.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1538.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jennifer Brady</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>254</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>252</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1588.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1435.1</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1512.4</td>
@@ -2054,7 +2038,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ana Bogdan</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>255</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>253</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1587.9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1391.8</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1481.0</td>
@@ -2062,7 +2046,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Suzy Larkin</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>256</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>254</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1586.2</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1570.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -2070,7 +2054,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Daiana Negreanu</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>257</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>255</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1586.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1736.5</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -2078,7 +2062,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Petra Krejsova</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>258</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>256</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1584.2</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1775.4</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1514.1</td>
@@ -2086,183 +2070,183 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Basak Eraydin</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>259</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>257</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1583.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1652.5</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1420.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nina Potocnik</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Sorana Mihaela Cirstea</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>258</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1583.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1531.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Nina Potocnik</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>259</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1581.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1646.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Arantxa Rus</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>260</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1581.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1646.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1584.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1500.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1381.9</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Arantxa Rus</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ivania Martinich</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>261</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1581.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1584.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1500.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1381.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1581.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1577.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ivania Martinich</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Sandra Jamrichova</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>262</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1581.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1577.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1578.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1625.7</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Sandra Jamrichova</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Yulia Kulikova</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>263</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1578.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1625.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1578.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1494.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Yulia Kulikova</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Paula Arias Manjon</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>264</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1578.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1494.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1551.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Paula Arias Manjon</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ofri Lankri</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>265</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1578.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1551.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1578.2</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1578.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ofri Lankri</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Daria Kasatkina</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>266</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1578.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1578.1</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1523.5</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1578.2</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Arina Rodionova</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ana Vrljic</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>267</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1577.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1437.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1659.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1341.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1577.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1558.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ana Vrljic</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ayla Aksu</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>268</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1577.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1558.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1577.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1846.4</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ayla Aksu</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Kimberly Birrell</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>269</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1577.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1846.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1574.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1548.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Kimberly Birrell</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Phillis Vanenburg</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>270</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1574.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1572.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1437.9</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1548.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1572.9</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Phillis Vanenburg</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Anna Morgina</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>271</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1572.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1437.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1572.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1518.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1572.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anna Morgina</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Siqi Cao</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>272</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1572.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1518.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1572.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1587.1</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Siqi Cao</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Claire Feuerstein</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>273</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1572.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1587.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1571.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1459.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Claire Feuerstein</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Lin Zhu</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>274</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1571.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1459.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1569.7</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1523.3</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Lin Zhu</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Irina Begu</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>275</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1569.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1569.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1500.6</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1523.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Irina Begu</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Snehadevi S Reddy</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>276</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1569.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1569.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1602.7</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1500.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1567.6</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Snehadevi S Reddy</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Alexandra Stevenson</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>277</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1569.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1602.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1568.2</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1567.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1548.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Alexandra Stevenson</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Dalila Jakupovic</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>278</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1568.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1568.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1676.3</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1548.7</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Dalila Jakupovic</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>279</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1568.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1676.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1508.2</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Christina McHale</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>280</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1567.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1567.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1508.2</td>
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Tereza Martincova</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>281</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>279</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1566.9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1525.5</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1466.8</td>
@@ -2270,7 +2254,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ema Burgic</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>282</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>280</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1566.5</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1521.8</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -2278,7 +2262,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Miriam Bianca Bulgaru</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>283</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>281</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1566.4</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1619.6</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -2286,7 +2270,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Pemra Ozgen</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>284</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>282</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1564.8</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1334.3</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -2294,7 +2278,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Maria Gutierrez Carrasco</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>285</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>283</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1564.7</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1551.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -2302,7 +2286,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasiya Komardina</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>286</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>284</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1564.2</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1872.3</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -2310,7 +2294,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Chanelle Van Nguyen</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>287</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>285</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1564.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -2318,7 +2302,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stefania Rubini</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>288</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>286</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1564.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1349.9</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -2326,7 +2310,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Georgina Garcia Perez</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>289</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>287</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1563.7</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1812.9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -2334,7 +2318,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Karman Thandi</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>290</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>288</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1562.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -2342,7 +2326,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Chompoothip Jandakate</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>291</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>289</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1562.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -2350,7 +2334,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stephanie Nemtsova</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>292</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>290</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1561.9</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1553.1</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -2358,7 +2342,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ola Abou Zekry</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>293</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>291</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1561.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -2366,7 +2350,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Yana Morderger</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>294</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>292</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1560.7</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1561.9</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -2374,7 +2358,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Simona Waltert</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>295</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>293</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1560.2</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1574.8</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -2382,7 +2366,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Montserrat Gonzalez</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>296</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>294</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1560.2</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -2390,7 +2374,7 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Patrycja Polanska</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>297</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>295</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1560.2</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1515.2</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -2398,59 +2382,75 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Kassandra Davesne</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>298</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>296</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1558.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1271.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1566.9</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Dalila Spiteri</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Christina McHale</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>297</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1557.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1543.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Dalila Spiteri</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>298</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1557.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1562.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Thai Sa Grana Pedretti</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>299</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1557.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1562.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1555.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1660.6</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Thai Sa Grana Pedretti</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Amandine Hesse</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>300</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1555.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1660.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1554.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1484.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1490.9</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Amandine Hesse</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Camila Giangreco Campiz</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>301</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1554.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1484.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1553.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1666.7</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1490.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Camila Giangreco Campiz</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Myrtille Georges</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>302</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1553.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1666.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1552.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1461.4</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1479.8</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Myrtille Georges</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Danka Kovinic</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>303</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1552.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1461.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1479.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1552.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1595.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1325.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1513.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Danka Kovinic</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Arina Rodionova</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>304</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1552.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1595.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1325.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1513.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1550.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1437.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1602.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1341.0</td>
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jil Belen Teichmann</td>
