@@ -12,17 +12,17 @@ Point-by-point win predictions for tennis matches.
 <!--more-->
 
 
-The list below contains links to in-match win predictions for recently completed matches. Updated: 2017-07-07
+The list below contains links to in-match win predictions for recently completed matches. Updated: 2017-07-08
 
 <ul>
-<li><a href="/match1/">Sebastian Ofner d Jack Sock Wimbledon</a></li>
-<li><a href="/match2/">Dominic Thiem d Gilles Simon Wimbledon</a></li>
-<li><a href="/match3/">Jared Donaldson d Paolo Lorenzi Wimbledon</a></li>
-<li><a href="/match4/">Novak Djokovic d Adam Pavlasek Wimbledon</a></li>
-<li><a href="/match5/">Adrian Mannarino d Yuichi Sugita Wimbledon</a></li>
-<li><a href="/match6/">Alison Riske d Kristina Mladenovic Wimbledon</a></li>
-<li><a href="/match7/">Garbine Muguruza Blanco d Yanina Wickmayer Wimbledon</a></li>
-<li><a href="/match8/">Magdalena Rybarikova d Karolina Pliskova Wimbledon</a></li>
-<li><a href="/match9/">Angelique Kerber d Kirsten Flipkens Wimbledon</a></li>
-<li><a href="/match10/">Polona Hercog d Varvara Lepchenko Wimbledon</a></li>
+<li><a href="/match1/">Roberto Bautista Agut d Kei Nishikori Wimbledon</a></li>
+<li><a href="/match2/">Benoit Paire d Jerzy Janowicz Wimbledon</a></li>
+<li><a href="/match3/">Kevin Anderson d Ruben Bemelmans Wimbledon</a></li>
+<li><a href="/match4/">Gilles Muller d Aljaz Bedene Wimbledon</a></li>
+<li><a href="/match5/">Marin Cilic d Steve Johnson Wimbledon</a></li>
+<li><a href="/match6/">Venus Williams d Naomi Osaka Wimbledon</a></li>
+<li><a href="/match7/">Ana Konjuh d Dominika Cibulkova Wimbledon</a></li>
+<li><a href="/match8/">Caroline Garcia d Madison Brengle Wimbledon</a></li>
+<li><a href="/match9/">Elina Svitolina d Carina Witthoeft Wimbledon</a></li>
+<li><a href="/match10/">Viktoria Azarenka d Heather Watson Wimbledon</a></li>
 </ul>
