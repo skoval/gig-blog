@@ -494,83 +494,83 @@ The serve ratings shown here are based on the current week's matches. Serve perf
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>60</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Tatjana Maria</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>99.9</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>50.0</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>103.9</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Zarina Diyas</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>97.3</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>48.6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>103.7</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>51.9</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>61</td>
-<td style='width:40%; text-align: left;'>Zarina Diyas</td>
-<td style='width:40%; text-align: center;'>97.3</td>
-<td style='width:40%; text-align: center;'>48.6</td>
-<td style='width:40%; text-align: center;'>103.7</td>
-<td style='width:40%; text-align: center;'>51.9</td>
+<td style='width:40%; text-align: left;'>Kristina Kucova</td>
+<td style='width:40%; text-align: center;'>94.1</td>
+<td style='width:40%; text-align: center;'>47.1</td>
+<td style='width:40%; text-align: center;'>94.5</td>
+<td style='width:40%; text-align: center;'>47.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>62</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Kristina Kucova</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>94.1</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>47.1</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>94.5</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>47.3</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Sorana Mihaela Cirstea</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>67.2</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>67.2</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>67.2</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>67.2</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>63</td>
-<td style='width:40%; text-align: left;'>Sorana Mihaela Cirstea</td>
-<td style='width:40%; text-align: center;'>67.2</td>
-<td style='width:40%; text-align: center;'>67.2</td>
-<td style='width:40%; text-align: center;'>67.2</td>
-<td style='width:40%; text-align: center;'>67.2</td>
+<td style='width:40%; text-align: left;'>Sorribes Tormo S.</td>
+<td style='width:40%; text-align: center;'>61.4</td>
+<td style='width:40%; text-align: center;'>61.4</td>
+<td style='width:40%; text-align: center;'>59.3</td>
+<td style='width:40%; text-align: center;'>59.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>64</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Sorribes Tormo S.</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>61.4</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>61.4</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>59.3</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>59.3</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Anna Blinkova</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>60.4</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>60.4</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>54.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>54.7</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>65</td>
-<td style='width:40%; text-align: left;'>Anna Blinkova</td>
-<td style='width:40%; text-align: center;'>60.4</td>
-<td style='width:40%; text-align: center;'>60.4</td>
-<td style='width:40%; text-align: center;'>54.7</td>
-<td style='width:40%; text-align: center;'>54.7</td>
+<td style='width:40%; text-align: left;'>Ying Ying Duan</td>
+<td style='width:40%; text-align: center;'>60.0</td>
+<td style='width:40%; text-align: center;'>60.0</td>
+<td style='width:40%; text-align: center;'>54.8</td>
+<td style='width:40%; text-align: center;'>54.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>66</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Ying Ying Duan</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>60.0</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>60.0</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>54.8</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>54.8</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Irina Khromacheva</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>59.9</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>59.9</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>51.1</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>51.1</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>67</td>
-<td style='width:40%; text-align: left;'>Irina Khromacheva</td>
-<td style='width:40%; text-align: center;'>59.9</td>
-<td style='width:40%; text-align: center;'>59.9</td>
-<td style='width:40%; text-align: center;'>51.1</td>
-<td style='width:40%; text-align: center;'>51.1</td>
+<td style='width:40%; text-align: left;'>Julia Boserup</td>
+<td style='width:40%; text-align: center;'>59.8</td>
+<td style='width:40%; text-align: center;'>59.8</td>
+<td style='width:40%; text-align: center;'>58.3</td>
+<td style='width:40%; text-align: center;'>58.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>68</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Julia Boserup</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>59.8</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>59.8</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>58.3</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>58.3</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Timea Babos</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>59.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>59.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>51.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>51.7</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>69</td>
-<td style='width:40%; text-align: left;'>Timea Babos</td>
-<td style='width:40%; text-align: center;'>59.7</td>
-<td style='width:40%; text-align: center;'>59.7</td>
-<td style='width:40%; text-align: center;'>51.7</td>
-<td style='width:40%; text-align: center;'>51.7</td>
+<td style='width:40%; text-align: left;'>Tatjana Maria</td>
+<td style='width:40%; text-align: center;'>59.0</td>
+<td style='width:40%; text-align: center;'>59.0</td>
+<td style='width:40%; text-align: center;'>57.5</td>
+<td style='width:40%; text-align: center;'>57.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>70</td>
@@ -974,75 +974,67 @@ The serve ratings shown here are based on the current week's matches. Serve perf
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>120</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Anastasia Potapova</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>43.2</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>43.2</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>40.4</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>40.4</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Catherine Cartan Bellis</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>42.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>42.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>42.9</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>42.9</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>121</td>
-<td style='width:40%; text-align: left;'>Catherine Cartan Bellis</td>
-<td style='width:40%; text-align: center;'>42.7</td>
-<td style='width:40%; text-align: center;'>42.7</td>
-<td style='width:40%; text-align: center;'>42.9</td>
-<td style='width:40%; text-align: center;'>42.9</td>
+<td style='width:40%; text-align: left;'>Kurumi Nara</td>
+<td style='width:40%; text-align: center;'>42.0</td>
+<td style='width:40%; text-align: center;'>42.0</td>
+<td style='width:40%; text-align: center;'>39.0</td>
+<td style='width:40%; text-align: center;'>39.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>122</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Kurumi Nara</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>42.0</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>42.0</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>39.0</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>39.0</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Han X.Y.</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>41.6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>41.6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>41.3</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>41.3</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>123</td>
-<td style='width:40%; text-align: left;'>Han X.Y.</td>
-<td style='width:40%; text-align: center;'>41.6</td>
-<td style='width:40%; text-align: center;'>41.6</td>
-<td style='width:40%; text-align: center;'>41.3</td>
-<td style='width:40%; text-align: center;'>41.3</td>
+<td style='width:40%; text-align: left;'>Arruabarrena V. L.</td>
+<td style='width:40%; text-align: center;'>41.1</td>
+<td style='width:40%; text-align: center;'>41.1</td>
+<td style='width:40%; text-align: center;'>39.2</td>
+<td style='width:40%; text-align: center;'>39.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>124</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Arruabarrena V. L.</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>41.1</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>41.1</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>39.2</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>39.2</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Annika Beck</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>40.9</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>40.9</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>41.6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>41.6</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>125</td>
-<td style='width:40%; text-align: left;'>Annika Beck</td>
-<td style='width:40%; text-align: center;'>40.9</td>
-<td style='width:40%; text-align: center;'>40.9</td>
-<td style='width:40%; text-align: center;'>41.6</td>
-<td style='width:40%; text-align: center;'>41.6</td>
+<td style='width:40%; text-align: left;'>Saisai Zheng</td>
+<td style='width:40%; text-align: center;'>40.1</td>
+<td style='width:40%; text-align: center;'>40.1</td>
+<td style='width:40%; text-align: center;'>37.6</td>
+<td style='width:40%; text-align: center;'>37.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>126</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Saisai Zheng</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>40.1</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>40.1</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>37.6</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>37.6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Veronica Cepede</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>39.8</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>39.8</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>38.1</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>38.1</td>
 </tr>
 <tr>
-<td style='width:40%; text-align: center;'>127</td>
-<td style='width:40%; text-align: left;'>Veronica Cepede</td>
-<td style='width:40%; text-align: center;'>39.8</td>
-<td style='width:40%; text-align: center;'>39.8</td>
-<td style='width:40%; text-align: center;'>38.1</td>
-<td style='width:40%; text-align: center;'>38.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>128</td>
-<td style='width:40%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: left;'>Monica Puig</td>
-<td style='width:40%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>36.6</td>
-<td style='width:40%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>36.6</td>
-<td style='width:40%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>34.8</td>
-<td style='width:40%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>34.8</td>
+<td style='width:40%; border-bottom: 2px solid grey; text-align: center;'>127</td>
+<td style='width:40%; border-bottom: 2px solid grey; text-align: left;'>Monica Puig</td>
+<td style='width:40%; border-bottom: 2px solid grey; text-align: center;'>36.6</td>
+<td style='width:40%; border-bottom: 2px solid grey; text-align: center;'>36.6</td>
+<td style='width:40%; border-bottom: 2px solid grey; text-align: center;'>34.8</td>
+<td style='width:40%; border-bottom: 2px solid grey; text-align: center;'>34.8</td>
 </tr>
 </tbody>
 </table>
