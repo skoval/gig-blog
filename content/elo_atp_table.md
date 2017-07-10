@@ -6,7 +6,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "ATP Career Elo Ratings"
 +++
 
-The following table includes the current career and surface-specific Elo ratings for ATP players. Updated: 2017-07-09
+The following table includes the current career and surface-specific Elo ratings for ATP players. Updated: 2017-07-10
 
 <table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
 <thead>
@@ -31,33 +31,33 @@ The following table includes the current career and surface-specific Elo ratings
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Roger Federer</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2348.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2350.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2119.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2134.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2139.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2329.2</td>
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Andy Murray</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2304.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2305.5</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>2188.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2174.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2176.8</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>2243.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Rafael Nadal</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2294.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2279.9</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2393.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1926.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1900.8</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2122.0</td>
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Milos Raonic</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2139.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2152.3</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1996.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1940.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1964.7</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>2104.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
@@ -69,44 +69,44 @@ The following table includes the current career and surface-specific Elo ratings
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2102.8</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Alexander Zverev</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Kei Nishikori</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2138.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2022.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1893.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1963.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2135.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2085.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1826.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2095.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Kei Nishikori</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Alexander Zverev</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2135.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2085.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1826.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2095.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2120.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2022.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1865.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1963.9</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Stan Wawrinka</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2118.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2123.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1725.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2066.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jo Wilfried Tsonga</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2105.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1973.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1893.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2067.9</td>
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Dominic Thiem</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2122.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2220.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1728.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1874.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2118.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2123.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1725.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2066.1</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jo Wilfried Tsonga</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>11</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2105.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1973.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1893.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2067.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2104.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2220.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1706.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1874.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>David Goffin</td>
@@ -119,26 +119,26 @@ The following table includes the current career and surface-specific Elo ratings
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Tomas Berdych</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>13</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2073.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2083.9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>2010.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1873.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1886.7</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>2000.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Marin Cilic</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>14</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2071.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2081.1</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1973.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1961.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1975.9</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1927.1</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Roberto Bautista Agut</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>15</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2044.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1918.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1818.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1949.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2049.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1699.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1919.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1870.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gael Monfils</td>
@@ -157,12 +157,12 @@ The following table includes the current career and surface-specific Elo ratings
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>2086.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gilles Muller</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Roberto Bautista Agut</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2028.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1699.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1892.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1870.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2031.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1918.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1798.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1949.6</td>
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Richard Gasquet</td>
@@ -181,20 +181,20 @@ The following table includes the current career and surface-specific Elo ratings
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1847.0</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Grigor Dimitrov</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jack Sock</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>21</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2021.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1826.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1816.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2004.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2021.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1834.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1652.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2018.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jack Sock</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Grigor Dimitrov</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>22</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2021.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1834.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1652.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2018.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2018.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1826.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1809.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2004.2</td>
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Karen Khachanov</td>
@@ -221,20 +221,20 @@ The following table includes the current career and surface-specific Elo ratings
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1872.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Kevin Anderson</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>26</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1952.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1869.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1816.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1812.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1942.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1821.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1870.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1755.7</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Kevin Anderson</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>27</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1942.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1821.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1870.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1755.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1938.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1869.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1788.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1812.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>John Isner</td>
@@ -245,44 +245,44 @@ The following table includes the current career and surface-specific Elo ratings
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1899.3</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Fabio Fognini</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>29</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1927.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1842.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1668.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1854.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Philipp Kohlschreiber</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1926.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1863.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1793.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1843.0</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Pablo Cuevas</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>31</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1925.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1956.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1568.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1693.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Steve Johnson</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1921.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1816.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1735.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1835.3</td>
-</tr>
-<tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Sam Querrey</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>33</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1920.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>29</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1932.9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1738.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1812.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1835.3</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1824.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Fabio Fognini</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1927.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1842.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1668.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1854.6</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Philipp Kohlschreiber</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>31</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1926.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1863.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1793.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1843.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Pablo Cuevas</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1925.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1956.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1568.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1693.0</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Steve Johnson</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>33</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1921.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1816.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1735.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1835.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>David Ferrer</td>
@@ -487,9 +487,9 @@ The following table includes the current career and surface-specific Elo ratings
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Benoit Paire</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>59</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1840.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1838.9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1779.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1680.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1676.9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1693.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
