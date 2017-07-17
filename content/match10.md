@@ -9,7 +9,7 @@ title = "In-Match Prediction Report"
 The following chart and table show the point-by-point match win prediction for the player who ultimately won the match.
 
 <div>
-<img src="/img/plots/Garbine_Muguruza_Blanco_d_Angelique_Kerber_Wimbledon.png" width = "100%">
+<img src="/img/plots/Magdalena_Rybarikova_d_Coco_Vandeweghe_Wimbledon.png" width = "100%">
 </div>
 
 <br>
@@ -27,1620 +27,836 @@ The following chart and table show the point-by-point match win prediction for t
 </thead>
 <tbody>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>34.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>28.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>41.5</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>34.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>49.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>42.3</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>35.0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>39.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32.6</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>33.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32.3</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>26.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32.2</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>39.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>31.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>39.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>39.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>31.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>48.6</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>39.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>36.6</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30.2</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>28.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>23.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>25.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>24.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>19.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>39.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>24.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>19.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>48.6</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Magdalena Rybarikova</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>24.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>17.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>14.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>17.2</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>14.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>17.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>17.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>25.1</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>17.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15.2</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>20.9</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>31.2</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>28.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>21.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.1</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>21.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.1</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>17.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>18.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>25.3</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>31.2</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50.6</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>44.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>51.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>44.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>51.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>48.4</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9.1</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6.2</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>47.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>54.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>59.1</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>56.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>52.6</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>58.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>52.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>65.1</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>A-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>45.2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>58.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>65.2</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>66.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>65.7</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>67.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>61.7</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9.0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>60.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>55.2</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>60.3</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>54.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>47.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8.3</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>48.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>52.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>49.4</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>54.2</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>56.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>46.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10.9</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>16.3</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.2</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>54.7</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>56.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>47.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>63.7</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>57.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>64.6</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>70.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>69.2</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>71.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>69.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>63.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>61.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>63.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>69.7</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>45.0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>74.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>46.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>70.1</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>71.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>65.8</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>65.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>60.2</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>60.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>67.0</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>68.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>73.8</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>48.2</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>44.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>42.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>44.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>41.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11.3</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15.9</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-A</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15.9</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>26.3</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>24.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>24.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>27.6</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>34.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15.1</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11.2</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>13.2</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>56.4</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>53.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>52.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>51.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>53.2</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>12.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>13.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>13.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>21.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>32.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>37.1</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>47.2</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>39.3</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>33.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>27.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>33.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>45.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>25.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>21.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>17.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>24.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>38.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>45.2</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>39.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>47.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>51.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>51.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>51.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>51.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>51.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>46.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>52.4</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>46.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>41.9</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>39.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>48.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>31.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Muguruza B. G.</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>26.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>52.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>77.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>62.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>78.6</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>53.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>77.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>66.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>82.0</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>83.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>86.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>82.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>77.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>71.3</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>69.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>75.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>69.8</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>67.9</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>70.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>77.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>84.2</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>85.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>83.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>85.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>88.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>89.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>85.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>84.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>81.4</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>81.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>85.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>80.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>82.7</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>86.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>83.2</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>77.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>83.2</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>85.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>74.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>87.2</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>55.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>91.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: left;'>Angelique Kerber</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>40-A</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>74.9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>89.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>92.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>96.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>97.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>98.2</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>97.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>98.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>98.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>99.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>99.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>99.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>98.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>99.4</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>98.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>99.4</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>98.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>99.4</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>98.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Coco Vandeweghe</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>98.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>98.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>99.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>99.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>40-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>99.9</td>
 </tr>
 </tbody>
 </table>

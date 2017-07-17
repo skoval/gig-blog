@@ -6,7 +6,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "ATP 52-Week Elo Ratings"
 +++
 
-The following table includes the 52-week overall and surface-specific Elo ratings for ATP players. Updated: 2017-07-13
+The following table includes the 52-week overall and surface-specific Elo ratings for ATP players. Updated: 2017-07-18
 
 <table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
 <thead>
@@ -31,9 +31,9 @@ The following table includes the 52-week overall and surface-specific Elo rating
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Roger Federer</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1880.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1925.3</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1658.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1716.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1834.7</td>
 </tr>
 <tr>
@@ -47,9 +47,9 @@ The following table includes the 52-week overall and surface-specific Elo rating
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Marin Cilic</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1806.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1805.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1656.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1675.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1671.7</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1581.1</td>
 </tr>
 <tr>
@@ -73,40 +73,40 @@ The following table includes the 52-week overall and surface-specific Elo rating
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1772.5</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1779.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1526.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1526.3</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1595.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Milos Raonic</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>David Goffin</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1761.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1624.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1574.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1757.3</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>David Goffin</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1755.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1670.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1674.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Tomas Berdych</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1752.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1596.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1623.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1638.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1755.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1670.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1674.5</td>
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Gilles Muller</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>11</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1746.6</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1520.3</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1646.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1597.9</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Milos Raonic</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1746.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1624.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1557.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1757.3</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Tomas Berdych</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>11</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1739.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1596.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1604.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1638.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -157,20 +157,20 @@ The following table includes the 52-week overall and surface-specific Elo rating
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1696.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Sam Querrey</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Attila Balazs</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1702.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1544.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1609.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1587.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1698.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1836.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Attila Balazs</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Sam Querrey</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>19</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1698.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1836.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1687.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1544.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1591.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1587.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Alexander Lazov</td>
@@ -217,7 +217,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>25</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1669.7</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1508.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1571.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1571.7</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1716.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
@@ -441,7 +441,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>53</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1600.4</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1460.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1515.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1517.6</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1580.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
@@ -1033,7 +1033,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>127</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1542.3</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1445.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1535.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1536.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1532.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
@@ -3785,7 +3785,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>471</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1484.5</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1437.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1479.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1480.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
@@ -7321,7 +7321,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>913</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1462.7</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1520.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1461.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>

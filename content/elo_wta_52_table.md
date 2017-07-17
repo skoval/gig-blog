@@ -6,7 +6,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "WTA 52-Week Elo Ratings"
 +++
 
-The following table includes the 52-week overall and surface-specific Elo ratings for WTA players. Updated: 2017-07-13
+The following table includes the 52-week overall and surface-specific Elo ratings for WTA players. Updated: 2017-07-18
 
 <table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
 <thead>
@@ -21,20 +21,20 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </thead>
 <tbody>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Johanna Konta</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1832.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1468.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1692.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1837.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1823.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1746.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1585.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1651.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Johanna Konta</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1823.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1746.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1585.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1651.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1807.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1468.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1665.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1837.5</td>
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Elina Svitolina</td>
@@ -53,20 +53,20 @@ The following table includes the 52-week overall and surface-specific Elo rating
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1807.2</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Petra Kvitova</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1785.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1564.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1608.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1700.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1498.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1587.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1792.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Petra Kvitova</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1785.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1498.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1587.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1792.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1779.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1564.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1613.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1700.6</td>
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Karolina Pliskova</td>
@@ -117,20 +117,20 @@ The following table includes the 52-week overall and surface-specific Elo rating
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1539.5</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Angelique Kerber</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Garbine Muguruza Blanco</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>13</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1681.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1497.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1561.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1724.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1682.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1656.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Magdalena Rybarikova</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>14</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1675.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1502.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1644.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1681.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1497.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1561.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1724.6</td>
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Laura Ioana Andrei</td>
@@ -181,59 +181,59 @@ The following table includes the 52-week overall and surface-specific Elo rating
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1397.3</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Shuai Peng</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Magdalena Rybarikova</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>21</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1647.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1496.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1536.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1632.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1650.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1502.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1620.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Timea Bacsinszky</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Shuai Peng</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>22</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1643.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1609.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1502.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1551.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1647.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1496.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1536.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1632.5</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Deniz Khazaniuk</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Timea Bacsinszky</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>23</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1640.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1603.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1640.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1643.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1609.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1502.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1551.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasia Pavlyuchenkova</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Deniz Khazaniuk</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>24</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1639.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1586.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1477.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1702.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1640.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1603.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1640.0</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Agnieszka Radwanska</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Anastasia Pavlyuchenkova</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>25</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1639.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1502.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1525.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1658.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1639.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1586.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1477.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1702.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Olga Saez Larra</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Agnieszka Radwanska</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>26</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1630.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1643.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1639.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1502.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1525.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1658.9</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Garbine Muguruza Blanco</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Olga Saez Larra</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>27</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1625.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1630.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1643.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1609.6</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
