@@ -9,7 +9,7 @@ title = "In-Match Prediction Report"
 The following chart and table show the point-by-point match win prediction for the player who ultimately won the match.
 
 <div>
-<img src="/img/plots/Venus_Williams_d_Jelena_Ostapenko_Wimbledon.png" width = "100%">
+<img src="/img/plots/Ekaterina_Alexandrova_d_Barbora_Krejcikova_Bucharest.png" width = "100%">
 </div>
 
 <br>
@@ -27,948 +27,1420 @@ The following chart and table show the point-by-point match win prediction for t
 </thead>
 <tbody>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>55.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>56.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>63.2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>65.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>57.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>58.5</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>49.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>50.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>57.4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>48.2</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>59.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>41.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>52.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>34.9</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>33.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>34.8</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>42.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>39.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>42.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>42.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>47.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>39.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>32.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>26.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>59.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>32.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>52.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>59.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>68.1</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>72.2</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>77.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.7</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>78.4</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>82.4</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>78.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>39.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>82.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>34.1</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>81.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>35.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>77.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>77.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>81.2</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>81.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>80.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>34.0</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>28.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>27.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>32.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>41.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>41.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>38.2</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>81.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>31.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>85.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>86.2</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>85.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>82.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>83.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>36.9</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>38.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>43.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>79.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>48.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>79.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40.9</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>39.3</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>33.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>34.2</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>39.3</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>39.8</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>44.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>37.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>35.3</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>37.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>45.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>41.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>45.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>41.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>33.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>34.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>29.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>34.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>35.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>39.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>36.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>36.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.8</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>35.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>45.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>A-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>34.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>39.2</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>34.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>39.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>46.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>38.4</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>32.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>37.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>45.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>49.2</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>59.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>64.2</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>65.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>69.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>69.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>70.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>69.3</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>68.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>64.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>68.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>69.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>74.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>72.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>68.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>72.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>74.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>72.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>74.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>72.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>74.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>78.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>75.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>78.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>75.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>75.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>78.8</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>79.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>79.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>81.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>81.6</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>82.9</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>77.6</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>82.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>84.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>81.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>73.6</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>79.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>79.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>75.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>72.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>74.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>80.1</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>81.4</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>84.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>84.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>81.3</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>81.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>81.2</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>84.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>87.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>A-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>84.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>83.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>78.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>83.6</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>85.2</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>88.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>85.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>86.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>83.2</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>82.3</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>78.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>82.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>78.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>82.6</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>86.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>82.6</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>77.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>70.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>77.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>80.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>84.9</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>84.0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>86.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>88.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>88.8</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>91.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>92.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>94.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>94.5</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>95.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>96.3</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>96.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>97.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>96.9</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>95.5</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>97.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>96.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>94.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>92.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>93.4</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>89.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>92.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>94.9</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>96.4</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>97.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>98.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>98.3</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>97.2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>97.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>96.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>98.4</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>95.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>97.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>96.5</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>95.7</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>96.6</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>95.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>92.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>94.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>96.7</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>94.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>89.4</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>94.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>96.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>94.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>89.4</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>93.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>96.1</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>93.2</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>89.4</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>96.0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>81.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>93.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>84.9</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>95.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>81.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>92.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-40</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>88.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>85.8</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>91.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>94.5</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>87.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>91.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>86.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>94.2</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>81.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>96.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>79.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>76.1</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>77.9</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>79.4</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>82.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>79.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>83.0</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>81.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>85.6</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>80.8</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>78.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>80.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>77.8</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>79.9</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>74.2</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>69.6</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>73.6</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>93.8</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>80.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>82.7</td>
-</tr>
-<tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>80.7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>96.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>83.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>92.9</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>A-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>96.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>92.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-A</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>88.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>92.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Ekaterina Alexandrova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>A-40</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>95.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>97.9</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>98.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-30</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>99.3</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>88.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>98.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jelena Ostapenko</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>92.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>98.0</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>96.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>99.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>98.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>98.0</td>
 </tr>
 <tr>
-<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-A</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>99.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>99.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: left;'>Venus Williams</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>2</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>12</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>40-0</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>99.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-40</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>98.0</td>
+</tr>
+<tr>
+<td style='width:20%;padding:2%;margin:2%; border-bottom: 2px solid grey; text-align: left;'>Barbora Krejcikova</td>
+<td style='width:20%;padding:2%;margin:2%; border-bottom: 2px solid grey; text-align: center;'>3</td>
+<td style='width:20%;padding:2%;margin:2%; border-bottom: 2px solid grey; text-align: center;'>8</td>
+<td style='width:20%;padding:2%;margin:2%; border-bottom: 2px solid grey; text-align: center;'>40-A</td>
+<td style='width:20%;padding:2%;margin:2%; border-bottom: 2px solid grey; text-align: center;'>FALSE</td>
+<td style='width:20%;padding:2%;margin:2%; border-bottom: 2px solid grey; text-align: center;'>99.1</td>
 </tr>
 </tbody>
 </table>
