@@ -6,10 +6,10 @@ date = "2016-11-05T18:25:22+05:30"
 title = "WTA Tournament Predictions"
 +++
 
-The following table includes the predictions for where each player is expected to finish in the current tournament when the draw for the event was released. Updated: 2017-07-18
+The following table includes the predictions for where each player is expected to finish in the current tournament when the draw for the event was released. Updated: 2017-07-24
 
 
-NULL<br><h3>Bucharest</h3><br><table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
+NULL<br><h3>Nanchang</h3><br><table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
 <thead>
 <tr>
 <th style='border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>Player</th>
@@ -23,291 +23,291 @@ NULL<br><h3>Bucharest</h3><br><table class='gmisc_table' style='border-collapse:
 </thead>
 <tbody>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>22.80</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>9.50</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>20.20</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>13.60</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>9.60</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>24.30</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Elise Mertens</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>18.00</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>24.00</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.70</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7.20</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>16.00</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>14.10</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Julia Goerges</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>15.20</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>26.80</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Shuai Peng</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>16.10</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>15.10</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>9.20</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>16.80</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>20.10</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>7.00</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>14.10</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>12.80</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>30.00</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Irina Camelia Begu</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.00</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15.90</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>29.70</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8.90</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>14.50</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11.00</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Sorana Cirstea</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>17.80</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>28.30</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>27.90</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>9.90</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>6.40</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>9.70</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Annika Beck</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>27.70</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>22.20</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>17.20</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.20</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7.50</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5.20</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Aliaksandra Sasnovich</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>22.20</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>45.30</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>13.30</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>12.00</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>3.60</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>3.60</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Pauline Parmentier</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>39.20</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>37.20</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12.60</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3.30</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5.20</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2.50</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Polona Hercog</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>46.10</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>30.60</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>14.30</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>4.40</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2.20</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2.40</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ekaterina Alexandrova</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>43.20</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.90</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.40</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8.70</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1.70</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2.10</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jana Cepelova</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>77.20</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>5.70</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>11.20</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2.60</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1.40</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1.90</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Tatjana Maria</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>36.00</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.70</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.20</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Shuai Zhang</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15.50</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>21.20</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13.50</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6.20</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>22.30</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13.80</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13.70</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jelena Jankovic</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>16.50</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>22.60</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>22.90</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>14.20</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>11.30</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>12.50</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Qiang Wang</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>16.80</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12.40</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>21.00</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>26.40</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11.30</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12.10</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Kristyna Pliskova</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>17.80</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>23.90</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>25.50</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>14.00</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>10.30</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>8.50</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ying Ying Duan</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>22.10</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>17.60</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30.70</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>17.80</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7.60</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4.20</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Risa Ozaki</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>39.40</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>17.50</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>31.70</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>5.50</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>3.00</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2.90</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Xin Yu Wang</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>27.30</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>48.00</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8.90</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8.50</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4.40</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2.90</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Zarina Diyas</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>28.80</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>43.80</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>15.00</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>6.00</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>3.60</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2.80</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Alla Kudryavtseva</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40.90</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>44.20</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5.00</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5.30</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3.20</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1.40</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Barbora Krejcikova</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>56.80</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>19.90</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>14.70</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>6.20</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Nao Hibino</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>51.50</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>30.60</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>11.30</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>3.30</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1.90</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1.40</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1.00</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Alexandra Dulgheru</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>36.50</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>34.10</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>19.00</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7.80</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1.70</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.90</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Saisai Zheng</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>26.70</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>27.60</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32.40</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9.10</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2.80</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1.40</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Cagla Buyukakcay</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>53.90</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>28.50</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>11.60</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>4.10</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1.20</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.70</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Lin Zhu</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>60.60</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>13.80</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>20.40</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2.70</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1.60</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.90</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Danka Kovinic</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40.80</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>49.10</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6.70</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Kurumi Nara</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>83.90</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8.60</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3.30</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2.30</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.50</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.60</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1.20</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.70</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ivana Jorovic</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>80.00</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>9.60</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>6.60</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2.20</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Gao X.</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>49.30</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>29.50</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>15.50</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>4.10</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1.00</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.60</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nadia Podoroska</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>45.60</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>31.00</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>14.80</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7.10</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.90</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Hsieh S W.</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50.70</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>25.70</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>17.20</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5.10</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.70</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.60</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Arantxa Rus</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>60.80</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>28.20</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>6.90</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2.50</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1.10</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Tereza Martincova</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>59.10</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>32.10</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>4.40</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>3.00</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.80</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.60</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Chang K C.</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>84.50</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9.20</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2.50</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2.80</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.50</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.50</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Xun F. Y.</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>35.20</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>41.90</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>18.70</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2.40</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1.30</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.50</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Isabella Shinikova</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40.80</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>35.50</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11.40</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9.20</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2.60</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.50</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Kai Lin Zhang</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>48.50</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.80</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12.40</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3.30</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1.60</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.40</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Alexa Glatch</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>84.80</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>10.50</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>3.00</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1.20</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.20</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jia Jing Lu</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>71.20</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>22.10</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>4.40</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1.40</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.60</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.30</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Kateryna Kozlova</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>44.50</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>41.10</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10.90</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1.80</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1.40</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.30</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Arina Rodionova</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>77.90</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10.10</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9.00</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2.20</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.60</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.20</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Maryna Zanevska</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>54.40</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>28.10</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>10.40</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>6.00</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.80</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.30</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Suarez Navarro C.</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>72.30</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13.30</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7.30</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5.40</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1.40</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.30</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Bara Irina M.</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>77.80</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>17.40</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>3.00</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1.60</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jang S. J.</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>82.20</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>11.70</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>4.80</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1.10</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.00</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.20</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Cristian J. A.</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>55.50</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>33.40</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8.20</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1.90</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.80</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.20</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Lesley Kerkhove</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>64.00</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>17.20</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>12.70</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>5.10</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.80</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.20</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Quirine Lemoine</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>82.00</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10.60</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4.40</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1.70</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1.10</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.20</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Sesil Karatantcheva</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>63.50</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>22.10</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>9.80</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>3.80</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.60</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.20</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Frech M.</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>59.20</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>35.70</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4.10</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.60</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.30</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Dart H.</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>83.20</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7.50</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>5.70</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3.00</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.50</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.10</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ana Bogdan</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>82.20</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>12.60</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>4.00</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1.10</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Fangzhou Liu</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>49.00</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>36.60</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>11.50</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2.70</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.10</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.10</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Han X.Y.</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>41.40</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>45.30</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7.70</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4.60</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.90</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.10</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Miyu Kato</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>72.70</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>21.60</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2.70</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2.00</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.90</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.10</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Peangtarn Plipuech</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>58.60</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>34.80</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4.60</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1.80</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.10</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.10</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Wushuang Zheng</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>64.80</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>26.80</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>7.30</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.60</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.40</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.10</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Xiaodi You</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>51.00</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>35.70</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9.80</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2.90</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.50</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0.10</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Eri Hozumi</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>73.30</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>17.20</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>7.30</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1.90</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.30</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>0.00</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: left;'>Elena Gabriela Ruse</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>59.20</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>29.00</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>7.00</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>4.00</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>0.80</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: left;'>Kang J. Q.</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>83.50</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>11.50</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>3.70</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>0.90</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>0.40</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; border-bottom: 2px solid grey; text-align: center;'>0.00</td>
 </tr>
 </tbody>
