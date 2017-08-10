@@ -224,7 +224,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>69.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>73.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Thomaz Bellucci</td>
@@ -816,7 +816,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>89.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>91.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Thomaz Bellucci</td>
@@ -1168,7 +1168,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>62.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>65.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Thomaz Bellucci</td>
@@ -1264,7 +1264,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>65.2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>67.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Thomaz Bellucci</td>
@@ -1552,7 +1552,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>9</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>65.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>67.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Alexandr Dolgopolov</td>

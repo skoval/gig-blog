@@ -504,7 +504,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.3</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>20.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Claire Liu</td>
@@ -776,7 +776,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>59.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>56.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Claire Liu</td>
@@ -784,7 +784,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>59.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>55.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Claire Liu</td>
@@ -792,7 +792,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>59.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>56.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Claire Liu</td>
@@ -800,7 +800,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>59.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>55.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Claire Liu</td>
@@ -808,7 +808,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>58.8</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>55.0</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Claire Liu</td>
@@ -816,7 +816,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>59.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>55.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicole Gibbs</td>
@@ -824,7 +824,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>58.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>54.7</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicole Gibbs</td>
@@ -1232,7 +1232,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6.0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>5.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicole Gibbs</td>
@@ -1392,7 +1392,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>44.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>41.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicole Gibbs</td>
@@ -1456,7 +1456,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>11</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>78.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>77.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Claire Liu</td>
@@ -1472,7 +1472,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>84.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>83.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicole Gibbs</td>
@@ -1480,7 +1480,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>77.2</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>76.3</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicole Gibbs</td>
@@ -1488,7 +1488,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>83.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>83.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicole Gibbs</td>
@@ -1496,7 +1496,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>90.5</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>90.2</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicole Gibbs</td>
@@ -1504,7 +1504,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>97.0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>96.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicole Gibbs</td>
@@ -1512,7 +1512,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-30</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>92.4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>92.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicole Gibbs</td>
@@ -1520,7 +1520,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>83.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>82.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicole Gibbs</td>
@@ -1528,7 +1528,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>71.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>68.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicole Gibbs</td>
@@ -1536,7 +1536,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>83.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>82.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicole Gibbs</td>
@@ -1544,7 +1544,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>A-40</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>92.4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>92.1</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Nicole Gibbs</td>
@@ -1552,7 +1552,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>12</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>83.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>82.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicole Gibbs</td>
@@ -1560,7 +1560,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>12</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40-A</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>70.0</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>68.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Claire Liu</td>
@@ -1568,7 +1568,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>13</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-1</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>58.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>56.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicole Gibbs</td>

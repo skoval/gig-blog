@@ -96,7 +96,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>13.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>16.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Camila Giorgi</td>
@@ -224,7 +224,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>20.1</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>23.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Camila Giorgi</td>
@@ -240,7 +240,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>4</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>14.2</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>17.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Camila Giorgi</td>
@@ -256,7 +256,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>10.6</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>13.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andreescu B. V.</td>
@@ -272,7 +272,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>5</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>7.5</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>9.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andreescu B. V.</td>
@@ -296,7 +296,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>11.1</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>13.5</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Camila Giorgi</td>
@@ -320,7 +320,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>6</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>16.0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>19.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Camila Giorgi</td>
@@ -360,7 +360,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6.4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7.9</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Andreescu B. V.</td>
@@ -384,7 +384,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>8</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>0-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>11.9</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>14.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Camila Giorgi</td>
@@ -456,7 +456,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>15-0</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>7.7</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>9.5</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Camila Giorgi</td>
@@ -480,7 +480,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>10</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>40-0</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>4.8</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>6.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Camila Giorgi</td>
@@ -656,7 +656,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-15</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1.3</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>1.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Camila Giorgi</td>
@@ -672,7 +672,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>2</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>15-40</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>FALSE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3.0</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>3.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Andreescu B. V.</td>
@@ -1096,7 +1096,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>3</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30-15</td>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>23.4</td>
+<td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>25.7</td>
 </tr>
 <tr>
 <td style='width:20%;padding:2%;margin:2%; text-align: left;'>Camila Giorgi</td>
@@ -1280,7 +1280,7 @@ The following chart and table show the point-by-point match win prediction for t
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>7</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>30-30</td>
 <td style='width:20%;padding:2%;margin:2%; text-align: center;'>TRUE</td>
-<td style='width:20%;padding:2%;margin:2%; text-align: center;'>36.4</td>
+<td style='width:20%;padding:2%;margin:2%; text-align: center;'>38.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:20%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Camila Giorgi</td>
