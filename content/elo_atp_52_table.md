@@ -6,7 +6,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "ATP 52-Week Elo Ratings"
 +++
 
-The following table includes the 52-week overall and surface-specific Elo ratings for ATP players. Updated: 2017-08-10
+The following table includes the 52-week overall and surface-specific Elo ratings for ATP players. Updated: 2017-08-11
 
 <table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
 <thead>
@@ -21,28 +21,28 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </thead>
 <tbody>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Rafael Nadal</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Roger Federer</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1932.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1841.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1553.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1750.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1923.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1715.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1838.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Roger Federer</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Rafael Nadal</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1919.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1715.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1831.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1895.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1841.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1553.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1719.3</td>
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Alexander Zverev</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1840.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1849.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1673.6</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1600.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1751.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1769.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Novak Djokovic</td>
@@ -69,44 +69,44 @@ The following table includes the 52-week overall and surface-specific Elo rating
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1836.8</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Sam Querrey</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Kevin Anderson</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1752.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1745.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1592.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1547.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1639.8</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Roberto Bautista Agut</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1733.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1597.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1563.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1696.8</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Sam Querrey</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1731.2</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1541.2</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1591.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1680.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1656.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>David Goffin</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1726.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1661.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1645.3</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Kevin Anderson</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1724.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1592.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1547.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1616.2</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Tomas Berdych</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>10</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1721.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1593.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1604.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1632.2</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Roberto Bautista Agut</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Tomas Berdych</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>11</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1717.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1597.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1563.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1679.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1721.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1593.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1604.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1632.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Stan Wawrinka</td>
@@ -181,36 +181,36 @@ The following table includes the 52-week overall and surface-specific Elo rating
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1683.2</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jay Clarke</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Adrian Mannarino</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>21</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1675.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1717.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1678.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1485.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1591.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1563.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Niels Lootsma</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jay Clarke</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>22</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1673.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1500.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1675.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1717.1</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1598.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Sebastian Ofner</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Niels Lootsma</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>23</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1672.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1635.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1525.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1652.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1673.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1500.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1598.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Grigor Dimitrov</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Sebastian Ofner</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>24</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1663.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1506.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1570.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1701.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1672.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1635.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1525.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1652.3</td>
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jack Sock</td>
@@ -221,40 +221,24 @@ The following table includes the 52-week overall and surface-specific Elo rating
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1712.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Adrian Mannarino</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Juan Martin Del Potro</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>26</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1660.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1485.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1591.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1545.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1655.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1589.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1499.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1642.0</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Juan Martin Del Potro</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ivan Endara</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>27</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1655.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1589.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1499.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1642.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ivan Endara</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>28</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1652.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1724.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Gael Monfils</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>29</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1647.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1519.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1545.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1628.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1652.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1724.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Richard Gasquet</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>28</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1646.1</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1530.4</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1538.7</td>
@@ -262,7 +246,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Bruno Santanna</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>31</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>29</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1644.8</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1625.6</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -270,7 +254,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Enzo Couacaud</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1644.2</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -278,107 +262,123 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Karen Khachanov</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>33</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>31</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1641.4</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1599.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1552.4</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1441.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Hyeon Chung</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Grigor Dimitrov</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1634.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1506.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1570.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1672.9</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Gael Monfils</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>33</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1631.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1519.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1545.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1611.1</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Philipp Kohlschreiber</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>34</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1632.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1594.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1518.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1631.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1601.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1499.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1562.6</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Philipp Kohlschreiber</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Petr Michnev</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>35</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1631.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1601.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1499.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1562.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1631.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1572.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1631.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Petr Michnev</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Alejandro Tabilo</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>36</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1631.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1572.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1629.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1632.5</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1631.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Alejandro Tabilo</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Fabio Fognini</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>37</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1629.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1632.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1623.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1552.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1519.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1607.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Fabio Fognini</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Feliciano Lopez</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>38</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1623.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1552.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1519.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1607.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1621.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1524.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1614.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1410.5</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Feliciano Lopez</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Shintaro Imai</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>39</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1621.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1524.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1614.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1410.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1617.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1617.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Shintaro Imai</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Frederico Ferreira Silva</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>40</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1617.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1617.5</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Frederico Ferreira Silva</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>41</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1616.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1470.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1633.4</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nick Kyrgios</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>42</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1616.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1512.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1475.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1717.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1470.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1633.4</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Michael Linzer</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>43</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1612.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1631.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Hyeon Chung</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>41</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1614.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1594.8</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1500.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Pablo Cuevas</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>44</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1611.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1612.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Michael Linzer</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>42</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1612.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1631.1</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1493.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Alexandre Muller</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>45</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1611.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1513.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Pablo Cuevas</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>43</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1611.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1612.2</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1647.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1493.3</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Alexandre Muller</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>44</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1611.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1513.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1647.4</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Nick Kyrgios</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>45</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1608.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1512.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1475.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1699.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Marek Jaloviec</td>
@@ -413,180 +413,180 @@ The following table includes the 52-week overall and surface-specific Elo rating
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Alejandro Gomez Gb42</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Diego Sebastian Schwartzman</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>50</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1604.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1724.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1604.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1618.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1461.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1586.6</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Yoshihito Nishioka</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Alejandro Gomez Gb42</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>51</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1603.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1604.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1724.4</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1604.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Lucas Miedler</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Yoshihito Nishioka</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>52</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1603.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1584.3</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1603.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1604.3</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Carlos Taberner</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Lucas Miedler</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>53</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1600.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1663.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1603.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1584.3</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1603.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Federico Coria</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Carlos Taberner</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>54</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1600.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1782.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1663.4</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Marcelo Arevalo</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Federico Coria</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>55</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1600.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1616.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1782.3</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ricardo Ojeda Lara</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Marcelo Arevalo</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>56</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1600.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1676.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1616.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ricardo Ojeda Lara</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>57</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1600.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1676.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1600.0</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Vladyslav Manafov</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>58</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1600.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1600.0</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Vladyslav Manafov</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>57</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1600.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1600.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Yannick Mertens</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>58</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1599.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1500.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1599.9</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Albert Ramos</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Yannick Mertens</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>59</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1599.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1610.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1504.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1462.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1599.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1500.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1599.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gianni Mina</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Albert Ramos</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>60</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1596.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1730.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1599.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1610.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1504.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1462.4</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Lorenzo Frigerio</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Gianni Mina</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>61</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1595.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1553.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1596.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1730.8</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1595.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Santos</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Lorenzo Frigerio</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>62</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1593.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1656.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1595.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1553.1</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1595.3</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Goncalo Oliveira</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Nicolas Santos</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>63</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1592.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1637.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1593.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1656.9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Bastian Malla</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Goncalo Oliveira</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>64</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1591.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1550.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1592.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1637.2</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Lucas Pouille</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Bastian Malla</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>65</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1590.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1587.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1564.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1560.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1591.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1550.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Daniel Altmaier</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Lucas Pouille</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>66</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1590.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1576.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1515.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1608.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1590.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1587.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1564.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1560.0</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Joao Pedro Sorgi</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Daniel Altmaier</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>67</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1590.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1590.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1576.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1515.7</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1608.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Botic Van De Zandschulp</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Joao Pedro Sorgi</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>68</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1588.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1569.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1590.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1608.4</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1588.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Caio Zampieri</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Botic Van De Zandschulp</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>69</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1587.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1627.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1588.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1569.3</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1588.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Adelchi Virgili</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Caio Zampieri</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>70</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1585.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1587.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1627.7</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1585.4</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Diego Sebastian Schwartzman</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Adelchi Virgili</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>71</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1584.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1618.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1461.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1565.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1585.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1585.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Brayden Schnur</td>
@@ -597,220 +597,220 @@ The following table includes the 52-week overall and surface-specific Elo rating
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1583.4</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jared Donaldson</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Juan Ignacio Galarza</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>73</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1580.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1461.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1518.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1579.3</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Juan Ignacio Galarza</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>74</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1577.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1599.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ramkumar Ramanathan</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>75</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1575.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1461.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1517.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1553.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ryan Shane</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>76</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1572.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1572.6</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jonas Luetjen</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>77</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1571.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1500.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1577.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1599.7</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1571.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ivan Nedelko</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ramkumar Ramanathan</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>74</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1575.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1461.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1517.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1553.5</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ryan Shane</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>75</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1572.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1572.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jonas Luetjen</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>76</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1571.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1500.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1571.6</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ivan Nedelko</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>77</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1570.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1624.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Fernando Romboli</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>78</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1570.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1624.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1564.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Fernando Romboli</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Orlando Luz</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>79</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1570.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1564.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1569.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1551.8</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Orlando Luz</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Steve Johnson</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>80</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1569.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1551.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1569.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1615.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1517.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1520.8</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Steve Johnson</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Dominik Koepfer</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>81</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1569.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1615.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1517.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1520.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1569.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1569.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Dominik Koepfer</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aljaz Bedene</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>82</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1569.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1569.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1553.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1544.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1459.4</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Aljaz Bedene</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Youssef Hossam</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>83</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1569.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1553.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1544.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1459.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1568.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1595.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Youssef Hossam</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Laslo Urrutia Fuentes</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>84</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1568.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1595.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1568.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1602.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Laslo Urrutia Fuentes</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Yusuke Takahashi</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>85</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1568.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1602.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1567.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1567.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Yusuke Takahashi</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Maximilian Neuchrist</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>86</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1567.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1566.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1499.8</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1567.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1566.0</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Maximilian Neuchrist</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Vit Kopriva</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>87</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1566.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1499.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1564.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1659.7</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1566.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1552.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Vit Kopriva</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Genaro Alberto Olivieri</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>88</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1564.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1659.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1564.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1566.9</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1552.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Genaro Alberto Olivieri</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Fernando Verdasco</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>89</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1564.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1566.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1562.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1572.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1460.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1557.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Fernando Verdasco</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mischa Zverev</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>90</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1562.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1572.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1460.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1557.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1500.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1552.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1522.4</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Mischa Zverev</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Borna Gojo</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>91</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1562.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1500.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1552.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1522.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1562.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1486.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1562.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Borna Gojo</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Claudio Fortuna</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>92</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1562.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1486.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1562.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1574.1</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1562.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1562.4</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Claudio Fortuna</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Marc Sieber</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>93</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1562.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1574.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1561.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1512.7</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1562.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1561.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Marc Sieber</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Gonzalo Villanueva</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>94</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1561.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1512.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1611.8</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1561.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Gonzalo Villanueva</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Donald Young</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>95</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1561.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1611.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1561.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1433.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1528.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1575.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Donald Young</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Luca Vanni</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>96</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1561.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1433.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1528.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1575.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1561.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1480.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1585.2</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Luca Vanni</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Roberto Ortega Olmedo</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>97</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1561.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1480.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1560.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1467.8</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1585.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1560.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Roberto Ortega Olmedo</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Evan King</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>98</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1560.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1467.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1560.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1556.7</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1560.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1503.2</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Evan King</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jared Donaldson</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>99</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1560.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1556.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1503.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1560.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1461.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1518.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1558.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Lenny Hampel</td>
@@ -933,432 +933,448 @@ The following table includes the 52-week overall and surface-specific Elo rating
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1543.6</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Tak Khunn Wang</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Denis Shapovalov</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>115</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1553.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1553.9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1553.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1479.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1559.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Peter Bothwell</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Tak Khunn Wang</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>116</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1553.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1478.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1553.5</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1553.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1553.5</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Tomas Papik</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Peter Bothwell</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>117</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1552.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1553.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1478.8</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1482.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1553.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Thanasi Kokkinakis</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Tomas Papik</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>118</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1552.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1463.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1477.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1565.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1552.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1482.3</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Edoardo Eremin</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Thanasi Kokkinakis</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>119</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1550.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1447.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1550.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1552.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1463.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1477.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1565.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Facundo Mena</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Edoardo Eremin</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>120</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1550.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1534.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1550.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1447.8</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1550.7</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Steve Darcis</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Facundo Mena</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>121</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1550.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1475.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1508.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1567.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1550.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1534.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Yuichi Sugita</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Steve Darcis</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>122</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1546.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1490.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1560.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1454.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1550.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1475.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1508.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1567.8</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Julian Onken</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Yuichi Sugita</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>123</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1545.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1549.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1546.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1490.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1560.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1454.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jc Aragone</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Julian Onken</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>124</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1545.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1545.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1549.4</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1545.3</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Nicolas Jarry</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jc Aragone</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>125</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1544.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1600.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1475.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1545.3</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1545.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jose Olivares</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Jarry</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>126</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1544.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1551.5</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1544.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1600.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1475.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Alexandr Igoshin</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jose Olivares</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>127</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1544.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1599.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1551.5</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1480.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Alexey Vatutin</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Alexandr Igoshin</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>128</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1543.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1549.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1544.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1599.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1543.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1480.0</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Makoto Ochi</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Alexey Vatutin</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>129</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1542.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1590.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1543.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1549.7</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1542.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1543.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Oriol Roca Batalla</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Makoto Ochi</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>130</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1542.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1605.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1542.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1590.4</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1542.9</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Alessandro Luisi</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Oriol Roca Batalla</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>131</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1540.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1431.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1542.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1605.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1500.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Federico Moreno</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Alessandro Luisi</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>132</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1540.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1502.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1540.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1431.3</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1500.0</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Wil Spencer</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Federico Moreno</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>133</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1540.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1545.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1502.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1540.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Adam El Mihdawy</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Wil Spencer</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>134</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1540.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1523.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1540.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1545.8</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1540.1</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Federico Zeballos</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Adam El Mihdawy</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>135</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1540.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1686.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1523.2</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Joao Monteiro</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Federico Zeballos</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>136</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1540.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1551.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1686.5</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1540.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Nuno Deus</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Joao Monteiro</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>137</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1540.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1462.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1551.6</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1540.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Piotr Matuszewski</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nuno Deus</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>138</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1540.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1463.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1462.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1540.0</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Wilfredo Gonzalez</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Piotr Matuszewski</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>139</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1540.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1525.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1463.4</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1540.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ryusei Makiguchi</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Wilfredo Gonzalez</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>140</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1539.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1539.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1540.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1525.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Luke Bambridge</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ryusei Makiguchi</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>141</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1539.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1539.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Egor Gerasimov</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Luke Bambridge</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>142</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1539.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1539.9</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1539.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1539.9</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Temur Ismailov</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Egor Gerasimov</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>143</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1539.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1539.8</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1539.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1539.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jared Hiltzik</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Temur Ismailov</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>144</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1539.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1539.3</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1539.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1539.3</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Alexander Zhurbin</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jared Hiltzik</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>145</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1539.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1547.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1539.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Davide Galoppini</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Alexander Zhurbin</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>146</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1538.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1580.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1539.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1547.1</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Robin Stanek</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Davide Galoppini</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>147</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1538.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1455.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1538.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1580.9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1500.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Marcos Baghdatis</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Robin Stanek</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>148</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1538.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1445.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1517.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1551.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1538.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1455.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1500.0</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Alexandr Dolgopolov</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Marcos Baghdatis</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>149</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1538.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1564.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1483.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1486.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1538.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1445.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1517.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1551.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Francesco Vilardo</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Alexandr Dolgopolov</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>150</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1537.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1537.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1538.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1564.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1483.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1486.0</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Alberto Romero De Avila Senise</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Francesco Vilardo</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>151</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1537.6</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1516.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1537.8</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1537.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1537.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Matthieu Roy</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Alberto Romero De Avila Senise</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>152</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1537.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1537.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1516.5</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1537.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1537.6</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Sam Barry</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Matthieu Roy</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>153</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1537.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1537.3</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1537.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1537.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Kento Takeuchi</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Sam Barry</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>154</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1536.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1537.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1536.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1537.0</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Connor Farren</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Kento Takeuchi</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>155</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1536.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1536.7</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1536.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1536.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aleksandr Nedovyesov</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Connor Farren</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>156</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1536.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1536.5</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1536.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1536.5</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Matteo Berrettini</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Aleksandr Nedovyesov</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>157</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1536.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1598.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1536.3</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1556.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1536.3</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Karim Hossam</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Matteo Berrettini</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>158</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1535.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1476.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1536.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1598.3</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1556.6</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Pablo Vivero Gonzalez</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Karim Hossam</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>159</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1535.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1479.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1535.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1476.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1535.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mick Lescure</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Pablo Vivero Gonzalez</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>160</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1535.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1535.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1479.1</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1535.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1535.7</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Akira Santillan</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Mick Lescure</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>161</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1535.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1454.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1535.5</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1549.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1535.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jonny Omara</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Akira Santillan</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>162</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1535.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1454.7</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1535.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1549.5</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Peter Gojowczyk</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jonny Omara</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>163</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1535.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1535.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1521.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1506.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1535.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Oscar Jose Gutierrez</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Peter Gojowczyk</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>164</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1534.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1557.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1535.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1521.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1506.1</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Lucas Catarina</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Oscar Jose Gutierrez</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>165</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1534.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1534.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1557.7</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1534.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ernests Gulbis</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Lucas Catarina</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>166</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1534.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1484.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1525.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1534.7</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ernests Gulbis</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>167</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1534.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1484.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1525.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Caio Silva</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>168</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1534.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1516.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Caio Silva</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>167</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1534.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1516.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Robin Haase</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>169</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1533.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1554.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1481.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1571.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nicolas Almagro</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>168</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>170</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1533.8</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1562.1</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1366,7 +1382,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Henri Laaksonen</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>169</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>171</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1533.5</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1520.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1478.0</td>
@@ -1374,7 +1390,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Loic Perret</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>170</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>172</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1532.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1513.5</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1382,7 +1398,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jonathan Kanar</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>171</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>173</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1531.5</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1518.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1390,7 +1406,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Tommy Paul</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>172</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>174</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1528.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1398,7 +1414,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Kenny De Schepper</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>173</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>175</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1526.2</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1606.6</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1406,7 +1422,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Dominic Weidinger</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>174</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>176</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1525.1</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1553.9</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1414,7 +1430,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Tiago Lopes</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>175</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>177</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1525.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1544.2</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1422,7 +1438,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jan Hernych</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>176</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>178</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1525.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1430,7 +1446,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Eric Johnson</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>177</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>179</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1524.7</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1438,7 +1454,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Igor Ribeiro Marcondes</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>178</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>180</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1524.5</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1556.8</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1446,7 +1462,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Marek Gengel</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>179</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>181</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1524.3</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1502.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1454,7 +1470,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Raul Brancaccio</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>180</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>182</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1523.9</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1505.8</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1462,7 +1478,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Cheong Eui Kim</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>181</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>183</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1523.9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1578.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1470,7 +1486,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Alen Avidzba</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>182</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>184</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1522.9</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1521.7</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1478,7 +1494,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ivan Kosec</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>183</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>185</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1522.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1486,7 +1502,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Tennys Sandgren</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>184</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>186</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1522.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1441.5</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1494,7 +1510,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Petru Alexandru Luncanu</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>185</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>187</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1521.8</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1491.5</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1502,7 +1518,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Sasi Kumar Mukund</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>186</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>188</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1521.5</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1540.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1510,7 +1526,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Francis Casey Alcantara</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>187</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>189</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1521.2</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1518,7 +1534,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Sidharth Rawat</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>188</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>190</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1521.1</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1540.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1526,7 +1542,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Tim Van Rijthoven</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>189</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>191</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1521.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1540.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1534,7 +1550,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jordan Correia Passos Do Carmo</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>190</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>192</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1521.1</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1526.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1542,7 +1558,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Kaichi Uchida</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>191</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>193</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1520.9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1497.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1550,7 +1566,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jerzy Janowicz</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>192</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>194</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1520.5</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1578.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1542.4</td>
@@ -1558,7 +1574,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Filip Veger</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>193</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>195</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1520.3</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1475.7</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1566,7 +1582,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Tobias Kamke</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>194</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>196</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1520.3</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1518.7</td>
@@ -1574,7 +1590,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Marc Dijkhuizen</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>195</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>197</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1520.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1495.9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1582,7 +1598,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Haadin Bava</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>196</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>198</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1520.1</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1525.7</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1590,7 +1606,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jonas Merckx</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>197</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>199</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1520.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1529.2</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1598,7 +1614,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Alexander Bublik</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>198</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>200</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1520.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1476.7</td>
@@ -1606,7 +1622,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Antonio Massara</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>199</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>201</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1520.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1514.8</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1614,7 +1630,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>August Holmgren</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>200</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>202</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1520.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1622,7 +1638,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Christian Hirschmueller</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>201</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>203</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1520.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1514.7</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1630,7 +1646,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Evan Song</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>202</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>204</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1520.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1520.9</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1638,7 +1654,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Grzegorz Panfil</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>203</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>205</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1520.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1496.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1646,7 +1662,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Hugo Dellien</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>204</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>206</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1520.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1591.8</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1654,7 +1670,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Manuel Pena Lopez</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>205</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>207</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1520.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1502.2</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1662,7 +1678,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Marc Giner</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>206</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>208</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1520.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1659.7</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1670,7 +1686,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Milos Nikolic</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>207</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>209</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1520.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1461.2</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1678,7 +1694,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Neil Pauffley</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>208</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>210</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1520.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1520.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1686,7 +1702,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Nerman Fatic</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>209</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>211</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1520.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1560.2</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1694,7 +1710,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Pascal Brunner</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>210</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>212</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1520.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1448.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1702,7 +1718,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Pascal Meis</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>211</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>213</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1520.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1552.4</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1710,7 +1726,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Patrick Kaukovalta</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>212</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>214</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1520.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1500.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1718,7 +1734,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Pedro Martinez Portero</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>213</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>215</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1520.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1599.9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1726,7 +1742,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Petar Conkic</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>214</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>216</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1520.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1443.2</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1734,7 +1750,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Prajnesh Gunneswaran</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>215</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>217</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1520.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1600.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1742,7 +1758,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Tsung Hua Yang</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>216</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>218</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1520.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1750,7 +1766,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Vasile Antonescu</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>217</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>219</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1520.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1513.4</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1758,7 +1774,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Geoffrey Blancaneaux</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>218</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>220</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1520.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1524.5</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1766,7 +1782,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Dennis Nevolo</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>219</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>221</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1520.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1774,7 +1790,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Lukas Ollert</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>220</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>222</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1519.9</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1549.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
@@ -1782,7 +1798,7 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Andre Gaspar Murta</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>221</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>223</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1519.9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1482.7</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -1790,187 +1806,171 @@ The following table includes the 52-week overall and surface-specific Elo rating
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Juan Pablo Ficovich</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>222</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>224</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1519.8</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1605.4</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>David Ferrer</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>223</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1519.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1489.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1449.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1552.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Naoki Nakagawa</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>224</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1519.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1572.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1498.9</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Peter Kobelt</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Naoki Nakagawa</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>225</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1519.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1478.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1519.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1572.2</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1519.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1498.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Juan Pablo Paz</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Peter Kobelt</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>226</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1519.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1505.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1478.8</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1519.0</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Aldin Setkic</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Juan Pablo Paz</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>227</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1519.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1505.5</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1519.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Felipe Mantilla</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aldin Setkic</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>228</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1518.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1517.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1519.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1519.0</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Nikola Milojevic</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Felipe Mantilla</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>229</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1518.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1480.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1517.8</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1518.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simone Bolelli</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Nikola Milojevic</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>230</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1518.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1510.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1500.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1480.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1518.8</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Kevin King</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Simone Bolelli</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>231</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1518.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1510.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1500.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Kevin King</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>232</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1518.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1518.8</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>David Pichler</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>233</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1518.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1545.3</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1518.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>David Pichler</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>232</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1518.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1545.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1518.8</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jan Mertl</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>233</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1518.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1461.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1522.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Franco Emanuel Egea</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jan Mertl</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>234</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1518.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1565.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1518.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1461.2</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1522.0</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Aleksandar Vukic</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Franco Emanuel Egea</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>235</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1518.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1565.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1518.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Javier Pulgar Garcia</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Aleksandar Vukic</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>236</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1517.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1501.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1518.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1517.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1518.0</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Carlos Gomez Herrera</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Javier Pulgar Garcia</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>237</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1517.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1486.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1517.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1501.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1517.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1517.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Cristian Rodriguez</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Carlos Gomez Herrera</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>238</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1517.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1512.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1486.2</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1517.8</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Farzin Danny Amiri</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Cristian Rodriguez</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>239</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1517.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1518.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1512.6</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Vaclav Safranek</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Farzin Danny Amiri</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>240</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1517.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1593.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1517.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1518.2</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1517.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Marcelo Zormann Da Silva</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Vaclav Safranek</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>241</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1517.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1457.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1593.0</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1517.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Sanjar Fayziev</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Marcelo Zormann Da Silva</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>242</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1517.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1654.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1517.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1457.3</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1517.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Mirko Cutuli</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Sanjar Fayziev</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>243</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1517.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1456.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1654.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1517.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Denis Shapovalov</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Mirko Cutuli</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>244</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1517.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1517.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1456.1</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1479.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1528.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1517.4</td>
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Damir Dzumhur</td>
@@ -2029,143 +2029,143 @@ The following table includes the 52-week overall and surface-specific Elo rating
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1516.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Matias Zukas</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>David Ferrer</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>252</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1515.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1648.2</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1515.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1489.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1449.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1545.8</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Juan Ignacio Ameal</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Matias Zukas</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>253</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1514.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1490.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1515.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1648.2</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Cameron Norrie</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Juan Ignacio Ameal</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>254</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1514.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1514.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1490.8</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1460.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1536.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Elmar Ejupovic</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Cameron Norrie</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>255</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1513.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1480.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1514.8</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1517.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1460.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1536.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Leonardo Mayer</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Elmar Ejupovic</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>256</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1513.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1635.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1513.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1480.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1517.7</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Darian King</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Leonardo Mayer</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>257</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1513.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1480.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1635.3</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1512.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Alexandar Lazarov</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Darian King</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>258</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1513.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1586.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1480.0</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1513.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1512.8</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Roberto Carballes Baena</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Alexandar Lazarov</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>259</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1512.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1542.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1513.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1586.6</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1513.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>John Lamble</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Roberto Carballes Baena</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>260</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1511.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1512.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1542.7</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1511.9</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Cristobal Saavedra Corvalan</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>John Lamble</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>261</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1511.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1492.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1511.9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1511.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Albert Montanes</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Cristobal Saavedra Corvalan</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>262</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1511.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1519.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1511.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1492.7</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Borna Coric</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Albert Montanes</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>263</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1511.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1539.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1455.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1517.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1511.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1519.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Fernando Yamacita</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Borna Coric</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>264</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1509.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1474.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1511.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1539.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1455.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1517.6</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ruben Bemelmans</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Fernando Yamacita</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>265</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1508.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1509.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1474.8</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1525.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1477.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Washi Gervais</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Ruben Bemelmans</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>266</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1506.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1487.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1508.3</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1525.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1477.9</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Marat Deviatiarov</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Washi Gervais</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>267</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1506.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1506.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1487.2</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1506.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Matthew Barton</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Marat Deviatiarov</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>268</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1505.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1506.2</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1505.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1506.2</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Kaya Gore</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Matthew Barton</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>269</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1505.6</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
@@ -2173,20 +2173,20 @@ The following table includes the 52-week overall and surface-specific Elo rating
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1505.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Jurgen Briand</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Kaya Gore</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>270</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1505.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1469.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1505.6</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1505.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1505.6</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Robin Haase</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Jurgen Briand</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>271</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1505.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1554.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1481.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1542.5</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1505.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1469.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'></td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1505.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Renta Tokuda</td>

@@ -7,7 +7,7 @@ title = "Current ATP Break Point Plus Efficiency"
 +++
 
 
-Ratings on the average conversion rate (efficiency) of break point plus for the current week events. Updated: 2017-08-10
+Ratings on the average conversion rate (efficiency) of break point plus for the current week events. Updated: 2017-08-11
 
 
 <table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
@@ -31,148 +31,148 @@ Ratings on the average conversion rate (efficiency) of break point plus for the 
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>3</td>
-<td style='width:40%; text-align: left;'>Bautista-Agut R.</td>
-<td style='width:40%; text-align: center;'>93.8</td>
+<td style='width:40%; text-align: left;'>Harrison R.</td>
+<td style='width:40%; text-align: center;'>87.5</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Harrison R.</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>87.5</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Bautista-Agut R.</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>72.7</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>5</td>
-<td style='width:40%; text-align: left;'>Nadal R.</td>
-<td style='width:40%; text-align: center;'>80.0</td>
+<td style='width:40%; text-align: left;'>Mannarino A.</td>
+<td style='width:40%; text-align: center;'>70.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Anderson K.</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>73.3</td>
-</tr>
-<tr>
-<td style='width:40%; text-align: center;'>7</td>
-<td style='width:40%; text-align: left;'>Monfils G.</td>
-<td style='width:40%; text-align: center;'>72.4</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>8</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: left;'>Zverev M.</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>68.2</td>
 </tr>
 <tr>
-<td style='width:40%; text-align: center;'>9</td>
-<td style='width:40%; text-align: left;'>Haase R.</td>
+<td style='width:40%; text-align: center;'>7</td>
+<td style='width:40%; text-align: left;'>Sugita Y.</td>
 <td style='width:40%; text-align: center;'>66.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>10</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Sugita Y.</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>66.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Anderson K.</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>65.6</td>
 </tr>
 <tr>
-<td style='width:40%; text-align: center;'>11</td>
-<td style='width:40%; text-align: left;'>Mannarino A.</td>
-<td style='width:40%; text-align: center;'>65.6</td>
+<td style='width:40%; text-align: center;'>9</td>
+<td style='width:40%; text-align: left;'>Haase R.</td>
+<td style='width:40%; text-align: center;'>64.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>12</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Dimitrov G.</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>10</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Querrey S.</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>62.5</td>
 </tr>
 <tr>
+<td style='width:40%; text-align: center;'>11</td>
+<td style='width:40%; text-align: left;'>Goffin D.</td>
+<td style='width:40%; text-align: center;'>60.6</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>12</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Carreno-Busta P.</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>60.0</td>
+</tr>
+<tr>
 <td style='width:40%; text-align: center;'>13</td>
-<td style='width:40%; text-align: left;'>Querrey S.</td>
-<td style='width:40%; text-align: center;'>62.5</td>
+<td style='width:40%; text-align: left;'>Monfils G.</td>
+<td style='width:40%; text-align: center;'>57.2</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>14</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Goffin D.</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>60.6</td>
-</tr>
-<tr>
-<td style='width:40%; text-align: center;'>15</td>
-<td style='width:40%; text-align: left;'>Carreno-Busta P.</td>
-<td style='width:40%; text-align: center;'>60.0</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>16</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Federer R.</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>57.1</td>
-</tr>
-<tr>
-<td style='width:40%; text-align: center;'>17</td>
-<td style='width:40%; text-align: left;'>Chung H.</td>
-<td style='width:40%; text-align: center;'>56.9</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>18</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: left;'>Smyczek T.</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>54.5</td>
 </tr>
 <tr>
-<td style='width:40%; text-align: center;'>19</td>
-<td style='width:40%; text-align: left;'>Ferrer D.</td>
-<td style='width:40%; text-align: center;'>52.6</td>
+<td style='width:40%; text-align: center;'>15</td>
+<td style='width:40%; text-align: left;'>Zverev A.</td>
+<td style='width:40%; text-align: center;'>53.4</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>20</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Paire B.</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>51.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>16</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Donaldson J.</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>53.0</td>
 </tr>
 <tr>
-<td style='width:40%; text-align: center;'>21</td>
-<td style='width:40%; text-align: left;'>Khachanov K.</td>
-<td style='width:40%; text-align: center;'>50.0</td>
+<td style='width:40%; text-align: center;'>17</td>
+<td style='width:40%; text-align: left;'>Paire B.</td>
+<td style='width:40%; text-align: center;'>51.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>22</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Raonic M.</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>18</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Khachanov K.</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>50.0</td>
 </tr>
 <tr>
-<td style='width:40%; text-align: center;'>23</td>
-<td style='width:40%; text-align: left;'>Tsonga J-W.</td>
+<td style='width:40%; text-align: center;'>19</td>
+<td style='width:40%; text-align: left;'>Raonic M.</td>
 <td style='width:40%; text-align: center;'>50.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>24</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>20</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Tsonga J-W.</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>50.0</td>
+</tr>
+<tr>
+<td style='width:40%; text-align: center;'>21</td>
+<td style='width:40%; text-align: left;'>Nadal R.</td>
+<td style='width:40%; text-align: center;'>49.3</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>22</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: left;'>Edmund K.</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>48.1</td>
 </tr>
 <tr>
-<td style='width:40%; text-align: center;'>25</td>
-<td style='width:40%; text-align: left;'>Donaldson J.</td>
-<td style='width:40%; text-align: center;'>46.1</td>
+<td style='width:40%; text-align: center;'>23</td>
+<td style='width:40%; text-align: left;'>Federer R.</td>
+<td style='width:40%; text-align: center;'>47.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>26</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>24</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: left;'>Nishikori K.</td>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>45.7</td>
 </tr>
 <tr>
+<td style='width:40%; text-align: center;'>25</td>
+<td style='width:40%; text-align: left;'>Chung H.</td>
+<td style='width:40%; text-align: center;'>43.5</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>26</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Dimitrov G.</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>42.8</td>
+</tr>
+<tr>
 <td style='width:40%; text-align: center;'>27</td>
-<td style='width:40%; text-align: left;'>Millot V.</td>
-<td style='width:40%; text-align: center;'>40.9</td>
+<td style='width:40%; text-align: left;'>Ferrer D.</td>
+<td style='width:40%; text-align: center;'>42.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>28</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Schwartzman D.</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>40.8</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Shapovalov D.</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>41.5</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>29</td>
-<td style='width:40%; text-align: left;'>Young D.</td>
-<td style='width:40%; text-align: center;'>40.0</td>
+<td style='width:40%; text-align: left;'>Schwartzman D.</td>
+<td style='width:40%; text-align: center;'>41.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>30</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Shapovalov D.</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>39.7</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Millot V.</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>40.9</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>31</td>
-<td style='width:40%; text-align: left;'>Kyrgios N.</td>
-<td style='width:40%; text-align: center;'>38.8</td>
+<td style='width:40%; text-align: left;'>Young D.</td>
+<td style='width:40%; text-align: center;'>40.0</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>32</td>
@@ -221,28 +221,28 @@ Ratings on the average conversion rate (efficiency) of break point plus for the 
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>41</td>
-<td style='width:40%; text-align: left;'>Zverev A.</td>
-<td style='width:40%; text-align: center;'>31.8</td>
+<td style='width:40%; text-align: left;'>Johnson S.</td>
+<td style='width:40%; text-align: center;'>30.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>42</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Johnson S.</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>30.8</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Tiafoe F.</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>29.6</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>43</td>
-<td style='width:40%; text-align: left;'>Tiafoe F.</td>
-<td style='width:40%; text-align: center;'>29.6</td>
+<td style='width:40%; text-align: left;'>Coric B.</td>
+<td style='width:40%; text-align: center;'>28.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>44</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Coric B.</td>
-<td style='width:40%; background-color: #d6d6d6; text-align: center;'>28.6</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: left;'>Gasquet R.</td>
+<td style='width:40%; background-color: #d6d6d6; text-align: center;'>27.4</td>
 </tr>
 <tr>
 <td style='width:40%; text-align: center;'>45</td>
-<td style='width:40%; text-align: left;'>Gasquet R.</td>
-<td style='width:40%; text-align: center;'>27.4</td>
+<td style='width:40%; text-align: left;'>Kyrgios N.</td>
+<td style='width:40%; text-align: center;'>25.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%; background-color: #d6d6d6; text-align: center;'>46</td>
