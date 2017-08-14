@@ -45,44 +45,44 @@ The following table includes the current career and surface-specific Elo ratings
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>2195.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Simona Halep</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Elina Svitolina</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2134.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2069.8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1848.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2002.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2132.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1952.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1610.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2076.0</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Elina Svitolina</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Simona Halep</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2093.0</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1952.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1610.5</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2033.7</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Johanna Konta</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2078.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1516.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1880.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2095.9</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Garbine Muguruza</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2077.4</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1978.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1904.2</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1995.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2127.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2069.8</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1848.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1997.6</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Caroline Wozniacki</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2074.0</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2079.5</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1840.1</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1811.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2038.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2043.4</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Johanna Konta</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2078.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1516.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1880.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2095.9</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Garbine Muguruza</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>2064.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1978.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1904.2</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1981.0</td>
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Petra Kvitova</td>
@@ -103,10 +103,10 @@ The following table includes the current career and surface-specific Elo ratings
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Karolina Pliskova</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>11</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2052.2</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2040.1</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1792.8</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1797.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2028.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>2014.1</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Angelique Kerber</td>
@@ -213,32 +213,16 @@ The following table includes the current career and surface-specific Elo ratings
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1827.0</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Caroline Garcia</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Darya Kasatkina</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>25</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1936.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1697.8</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1741.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1839.5</td>
-</tr>
-<tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Darya Kasatkina</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>26</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1936.4</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1876.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1578.9</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1769.7</td>
-</tr>
-<tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Lucie Safarova</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>27</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1931.9</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1811.1</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1722.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1890.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1936.4</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1876.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1578.9</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1769.7</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Barbora Zahlavova Strycova</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>28</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>26</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1930.9</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1738.1</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1754.9</td>
@@ -246,19 +230,35 @@ The following table includes the current career and surface-specific Elo ratings
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Anastasia Pavlyuchenkova</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>29</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>27</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1930.5</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1813.3</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1591.9</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1898.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Caroline Garcia</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>28</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1929.6</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1697.8</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1741.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1829.6</td>
+</tr>
+<tr>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Anastasija Sevastova</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>29</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1927.1</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1831.3</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1676.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1773.4</td>
+</tr>
+<tr style='background-color: #d6d6d6;'>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Lucie Safarova</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>30</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1927.1</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1831.3</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1676.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1773.4</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1921.5</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1811.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1722.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1877.2</td>
 </tr>
 <tr>
 <td style='width:40%;padding:2%;margin:2%; text-align: left;'>Ashleigh Barty</td>
@@ -269,20 +269,20 @@ The following table includes the current career and surface-specific Elo ratings
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>1813.8</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Carla Suarez Navarro</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Sloane Stephens</td>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>32</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1913.0</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1894.7</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1656.6</td>
-<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1821.9</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1916.1</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1826.7</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1699.3</td>
+<td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: center;'>1854.8</td>
 </tr>
 <tr>
-<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Sloane Stephens</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: left;'>Carla Suarez Navarro</td>
 <td style='width:40%;padding:2%;margin:2%; text-align: center;'>33</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1909.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1826.7</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1699.3</td>
-<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1844.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1913.0</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1894.7</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1656.6</td>
+<td style='width:40%;padding:2%;margin:2%; text-align: center;'>1821.9</td>
 </tr>
 <tr style='background-color: #d6d6d6;'>
 <td style='width:40%;padding:2%;margin:2%; background-color: #d6d6d6; text-align: left;'>Dominika Cibulkova</td>
